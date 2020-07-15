@@ -23,7 +23,7 @@ rownames(cuadro)<-c("Fumadores","No fumadores")
 
 prop.table(cuadro)
 
-barplot( prop.table(cuadro), main = "Comparison", 
+barplot( prop.table(cuadro), main = "Comparison",
          legend = c("Fumadores", "No Fumadores"),
          xlab = " Estado Civil", beside = TRUE)
 
