@@ -32,7 +32,7 @@ qx[4]
 LRI =  qx[2] - 1.5* (qx[4] - qx[2])
 LRS =  qx[4] + 1.5*(qx[4] - qx[2])
 
-boxplot(x)   # boxplot
+boxplot(x)  # boxplot
 
 plot(x)
 
