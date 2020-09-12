@@ -1,0 +1,1001 @@
+ID_MUJER,FACILIDAD,REGION_RES_MADRE,ORIGEN,CASADA,EDUC_MADRE,EDAD_MADRE,RAZA_MADRE,EDAD_PADRE,RAZA_PADRE,MES_CUIDADO_PRENATAL,FUMADORA,PESO_ANTES_EMB,PESO_DESPUES_EMB,PESO_GANADO,metodo_parto,METODO_PARTO,PLURALIDAD,GENERO,SEMANA_GESTACION,PESO_BEBE
+10191,Hospital,Otro,Otro,NO,12,26,Black,30~34,White,1~3,NO,227,238,11,0,1,Single,M,37,6.81
+28767,Hospital,Otro,Puerto Rico,SI,BA,32,White,35~39,White,1~3,NO,189,218,29,0,1,Single,M,40,7.37
+24796,Hospital,Bayamon,Puerto Rico,SI,BA,25,White,25~29,White,4~6,NO,138,161,23,1,2,Single,F,41,7.19
+113,Hospital,Carolina,Puerto Rico,NO,BA,24,White,20~24,White,1~3,NO,183,205,22,1,2,Single,M,38,6.5
+18564,Hospital,Carolina,Puerto Rico,NO,12,20,White,20~24,Black,1~3,NO,120,153,33,1,2,Single,F,39,7.31
+36411,Hospital,Ponce,Puerto Rico,NO,12,25,White,20~24,White,1~3,NO,82,107,25,1,2,Single,M,36,5.13
+855,Hospital,Otro,Puerto Rico,SI,12,23,White,20~24,White,Desconocido,NO,115,136,21,0,1,Single,F,39,6.81
+34499,Hospital,Otro,Puerto Rico,SI,12,25,White,20~24,White,1~3,NO,129,157,28,0,1,Single,F,39,8.13
+19991,Hospital,Otro,Puerto Rico,SI,BA,35,White,20~24,White,1~3,NO,180,206,26,0,1,Single,M,36,6.06
+16010,Hospital,Otro,Puerto Rico,NO,BA,21,White,20~24,White,1~3,NO,115,135,20,0,1,Single,M,38,6.81
+39282,Hospital,Caguas,Puerto Rico,NO,12,25,White,25~29,White,4~6,NO,209,211,2,0,1,Single,F,33,3.69
+33721,Hospital,Ponce,Puerto Rico,NO,~8VO,36,White,30~34,White,4~6,NO,143,153,10,0,1,Single,F,36,5.19
+8873,Hospital,Otro,Puerto Rico,NO,GA,39,White,35~39,White,1~3,NO,117,130,13,1,2,Single,F,34,4.56
+19970,Hospital,Bayamon,Puerto Rico,NO,12,19,White,20~24,White,4~6,NO,96,132,36,1,2,Single,F,38,5.75
+14903,Hospital,Otro,Puerto Rico,NO,12,24,White,55~98,White,1~3,NO,119,160,41,1,2,Single,M,39,6.88
+5334,Hospital,Otro,Puerto Rico,SI,BA,29,White,30~34,White,1~3,NO,164,198,34,0,1,Single,M,37,5.37
+15928,Hospital,Bayamon,Otro,SI,BA,27,Black,30~34,White,1~3,NO,97,133,36,0,1,Single,F,35,6.69
+36378,Hospital,Otro,Puerto Rico,SI,MA,32,Black,30~34,Black,1~3,NO,182,200,18,1,2,Single,F,39,7.87
+39700,Hospital,Bayamon,Puerto Rico,SI,GA,32,White,35~39,White,1~3,NO,148,203,55,0,1,Single,M,36,7.56
+26938,Hospital,Otro,No hispano,SI,BA,29,White,25~29,White,1~3,NO,170,184,14,0,1,Single,M,37,5.94
+29220,Hospital,Mayaguez,Puerto Rico,NO,9~11,20,White,20~24,White,1~3,NO,80,99,10,1,2,Single,F,39,5
+9991,Hospital,Otro,Puerto Rico,SI,BA,31,White,35~39,White,1~3,NO,162,188,26,1,2,Single,M,42,7.44
+36886,Hospital,San Juan,Puerto Rico,NO,12,19,White,15~19,Black,1~3,NO,119,140,21,1,2,Single,M,37,6.25
+30800,Hospital,Otro,Puerto Rico,SI,BA,29,White,35~39,White,4~6,NO,175,205,30,0,1,Twin,M,36,4.25
+7166,Hospital,Otro,Puerto Rico,NO,GA,27,White,25~29,White,1~3,NO,150,192,42,0,1,Single,M,38,9.31
+20034,Hospital,Otro,Puerto Rico,NO,12,21,White,30~34,White,1~3,NO,119,144,25,1,2,Single,F,38,7
+24026,Hospital,San Juan,Puerto Rico,NO,BA,26,Black,25~29,White,1~3,NO,116,142,26,1,2,Single,M,39,6.81
+34072,Hospital,Otro,Puerto Rico,NO,BA,22,Black,20~24,Black,1~3,NO,198,225,27,0,1,Single,F,38,8.25
+12917,Hospital,San Juan,Puerto Rico,NO,GA,20,Black,20~24,White,1~3,NO,168,199,31,0,1,Single,F,40,7.56
+24406,Hospital,Otro,Puerto Rico,NO,~8VO,16,White,20~24,White,1~3,NO,120,140,20,0,1,Single,M,39,8.44
+1896,Hospital,Otro,Puerto Rico,SI,BA,28,White,25~29,White,1~3,NO,100,127,27,0,1,Single,M,38,7.19
+36744,Hospital,Otro,Puerto Rico,NO,12,30,White,20~24,White,1~3,NO,162,175,13,0,1,Single,M,38,6.75
+25877,Hospital,Bayamon,Puerto Rico,SI,MA,27,White,25~29,White,1~3,NO,133,163,30,1,2,Single,M,39,7.37
+7407,Hospital,Otro,Puerto Rico,NO,BA,28,White,35~39,White,1~3,NO,136,161,25,1,2,Single,M,39,6.62
+26911,Hospital,San Juan,No hispano,SI,12,35,White,35~39,White,4~6,NO,135,157,22,0,1,Single,M,39,8.31
+12831,Hospital,Otro,Puerto Rico,NO,MA,26,White,30~34,White,7~,NO,220,247,27,0,1,Twin,M,38,5.81
+10853,Hospital,San Juan,Puerto Rico,NO,9~11,40,White,35~39,White,1~3,NO,132,158,26,0,1,Single,M,37,7.81
+20417,Hospital,Caguas,Puerto Rico,NO,12,18,Black,15~19,White,4~6,NO,95,129,34,1,2,Single,M,41,7.19
+26589,Hospital,Otro,Puerto Rico,NO,9~11,26,White,30~34,White,1~3,NO,140,164,24,0,1,Single,M,36,6.69
+35243,Hospital,Otro,Puerto Rico,NO,12,23,White,25~29,White,1~3,NO,155,186,31,1,2,Single,F,36,6.12
+2883,Hospital,Caguas,Puerto Rico,NO,DOCTORADO,33,White,35~39,Desconocida,1~3,NO,220,247,27,1,2,Single,M,37,6.81
+32879,Hospital,Otro,Puerto Rico,NO,12,18,White,25~29,White,1~3,NO,218,248,30,0,1,Single,F,39,6.12
+10266,Hospital,Ponce,Puerto Rico,NO,12,19,White,20~24,White,1~3,NO,157,185,28,1,2,Single,M,37,7.25
+6409,Hospital,Otro,Puerto Rico,SI,DOCTORADO,37,White,40~44,White,1~3,NO,150,176,26,1,2,Single,M,38,7.69
+11186,Hospital,Otro,Puerto Rico,NO,12,25,White,20~24,White,1~3,NO,120,150,30,0,1,Single,M,38,7.63
+38734,Hospital,Otro,Puerto Rico,NO,12,18,White,20~24,White,1~3,NO,147,158,11,1,2,Single,M,38,6.31
+28783,Hospital,Caguas,Puerto Rico,SI,MA,31,White,30~34,White,1~3,NO,120,160,40,0,1,Single,M,39,4.25
+20986,Hospital,Otro,Puerto Rico,NO,Algunos creditos,20,White,20~24,White,4~6,NO,100,118,18,1,2,Single,F,38,6
+13129,Hospital,Otro,Puerto Rico,NO,BA,33,White,35~39,Desconocida,1~3,NO,152,187,35,1,2,Single,M,38,6.69
+5546,Hospital,Otro,Puerto Rico,NO,BA,28,White,30~34,White,1~3,NO,133,162,29,0,1,Single,F,38,7
+12333,Hospital,Otro,Puerto Rico,SI,9~11,26,White,35~39,White,4~6,NO,187,206,19,1,2,Single,M,39,8.75
+28467,Hospital,Caguas,Puerto Rico,NO,12,39,White,Desconocida,Desconocida,1~3,NO,121,141,20,0,1,Single,M,38,6.06
+31963,Hospital,Otro,No hispano,SI,Algunos creditos,24,White,25~29,White,1~3,NO,170,174,4,0,1,Single,M,38,6.12
+22418,Hospital,Otro,Puerto Rico,NO,12,27,White,30~34,Black,1~3,NO,170,206,36,0,1,Single,M,39,6.06
+27509,Hospital,Otro,Puerto Rico,NO,BA,26,White,25~29,White,1~3,NO,120,178,58,1,2,Single,M,34,6.38
+13383,Hospital,Otro,Puerto Rico,NO,GA,26,White,30~34,White,1~3,NO,130,150,20,1,2,Single,M,38,7.13
+39225,Hospital,Otro,Puerto Rico,NO,12,17,White,Desconocida,Desconocida,1~3,NO,123,138,15,1,2,Single,F,29,5.81
+4470,Hospital,Mayaguez,Puerto Rico,SI,9~11,33,White,35~39,White,1~3,NO,170,195,25,0,1,Single,M,39,5.75
+39720,Hospital,Otro,Puerto Rico,NO,9~11,20,White,25~29,White,1~3,NO,110,142,32,1,2,Single,M,37,5.81
+1864,Hospital,Otro,Puerto Rico,NO,12,19,White,25~29,White,1~3,NO,142,171,29,1,2,Single,F,38,6.62
+32889,Hospital,Otro,Puerto Rico,NO,12,22,White,25~29,White,1~3,NO,142,150,8,0,1,Single,F,38,7.69
+6350,Hospital,Otro,Puerto Rico,NO,GA,18,White,20~24,White,1~3,NO,180,215,35,1,2,Single,F,40,7
+13557,Hospital,Otro,Puerto Rico,NO,GA,26,White,30~34,White,1~3,NO,176,192,16,0,1,Single,F,38,7.19
+2874,Hospital,Otro,Puerto Rico,NO,9~11,25,White,20~24,White,1~3,NO,160,202,42,0,1,Single,M,36,5.06
+9712,Hospital,Otro,Puerto Rico,NO,GA,23,White,20~24,White,1~3,NO,178,191,13,0,1,Single,F,40,6.69
+1808,Hospital,Otro,Puerto Rico,NO,12,22,White,20~24,White,1~3,NO,142,172,30,1,2,Single,F,37,5.88
+7554,Hospital,Otro,Puerto Rico,NO,9~11,26,White,35~39,White,1~3,NO,NA,NA,NA,1,2,Single,F,37,5.5
+37403,Hospital,Otro,Puerto Rico,SI,BA,27,White,25~29,White,1~3,NO,180,197,17,1,2,Single,F,40,6.62
+10281,Hospital,Otro,Puerto Rico,NO,BA,29,White,25~29,White,1~3,NO,138,161,23,1,2,Single,M,39,7.87
+15116,Hospital,San Juan,Puerto Rico,NO,9~11,23,White,Desconocida,Desconocida,4~6,NO,157,NA,NA,1,2,Single,M,32,5.13
+18134,Hospital,Otro,Puerto Rico,NO,GA,31,Black,45~49,Black,1~3,NO,224,218,0,0,1,Single,M,39,7.13
+13682,Hospital,Ponce,Puerto Rico,NO,12,19,White,20~24,White,1~3,NO,145,178,33,0,1,Single,M,39,7.94
+40700,Hospital,Carolina,Puerto Rico,NO,12,16,White,15~19,White,1~3,NO,130,160,30,0,1,Single,M,37,7
+20096,Hospital,Otro,Puerto Rico,SI,GA,20,White,20~24,White,Desconocido,NO,115,153,38,1,2,Single,F,NA,7
+9264,Hospital,Otro,Puerto Rico,SI,12,29,White,25~29,White,1~3,NO,130,160,30,0,1,Triplet,F,33,3.94
+23639,Hospital,Otro,Puerto Rico,NO,~8VO,27,White,25~29,White,1~3,NO,100,125,25,0,1,Single,M,30,3.44
+30612,Hospital,Otro,Puerto Rico,NO,12,21,White,20~24,White,1~3,NO,111,157,46,0,1,Single,M,39,6.94
+40815,Hospital,Carolina,Otro,SI,BA,34,Black,30~34,White,1~3,NO,125,130,5,1,2,Single,F,38,7.56
+21893,Hospital,Otro,Puerto Rico,NO,12,42,White,50~54,White,4~6,NO,156,176,20,0,1,Single,M,43,8.25
+32589,Hospital,Otro,Puerto Rico,NO,12,20,White,20~24,White,1~3,NO,100,127,27,0,1,Single,F,37,5.5
+21545,Hospital,Bayamon,Puerto Rico,SI,BA,36,White,35~39,White,4~6,NO,216,275,59,1,2,Single,M,39,8.25
+20360,Hospital,Otro,Puerto Rico,SI,12,16,White,15~19,White,4~6,NO,103,125,22,1,2,Single,M,35,5.81
+9519,Hospital,Otro,Puerto Rico,NO,9~11,24,White,15~19,Black,4~6,NO,110,135,25,0,1,Single,M,40,6.56
+31086,Hospital,Ponce,Puerto Rico,NO,12,22,White,20~24,White,1~3,NO,167,185,18,0,1,Single,M,39,6.81
+28949,Hospital,Otro,No hispano,NO,9~11,18,White,20~24,White,1~3,NO,110,124,14,1,2,Single,F,41,7.31
+36619,Hospital,Otro,Puerto Rico,SI,12,34,Black,35~39,Black,1~3,NO,104,173,69,0,1,Single,M,42,7.56
+5923,Hospital,Otro,Puerto Rico,NO,BA,26,White,30~34,White,1~3,NO,108,137,29,0,1,Twin,F,34,4
+29211,Hospital,San Juan,No hispano,SI,BA,30,White,25~29,White,1~3,NO,156,204,48,1,2,Single,M,39,7.63
+29182,Hospital,Otro,Puerto Rico,NO,12,21,White,20~24,Desconocida,4~6,NO,103,118,15,1,2,Single,M,40,5.56
+28959,Hospital,San Juan,Puerto Rico,NO,MA,30,White,35~39,White,1~3,NO,138,179,41,1,2,Single,F,39,7.19
+8955,Hospital,Otro,Puerto Rico,SI,BA,26,White,25~29,White,1~3,NO,183,216,33,0,1,Single,F,38,6.31
+17600,Hospital,Otro,Puerto Rico,SI,BA,28,White,25~29,White,1~3,NO,95,130,35,1,2,Single,M,38,7.63
+24060,Hospital,Otro,Puerto Rico,NO,12,17,White,15~19,White,1~3,NO,103,133,30,0,1,Twin,M,32,3.13
+3026,Hospital,Bayamon,Puerto Rico,NO,GA,22,White,25~29,White,1~3,NO,185,210,25,0,1,Single,M,31,7.63
+20293,Hospital,Ponce,Puerto Rico,NO,12,26,White,20~24,White,4~6,NO,166,188,22,0,1,Single,F,38,6.69
+17405,Hospital,Otro,Puerto Rico,SI,12,33,White,30~34,White,1~3,NO,205,218,13,0,1,Single,M,38,7.31
+38689,Hospital,Otro,Puerto Rico,NO,9~11,24,White,25~29,White,1~3,NO,130,164,34,0,1,Single,F,39,6.69
+29465,Hospital,Bayamon,Puerto Rico,NO,BA,27,White,45~49,White,1~3,NO,138,169,31,0,1,Single,F,38,6.81
+29214,Hospital,Bayamon,Puerto Rico,NO,12,22,White,25~29,White,1~3,NO,105,131,26,0,1,Single,M,40,7.56
+38072,Hospital,Otro,Puerto Rico,NO,9~11,17,White,30~34,White,1~3,NO,138,178,40,1,2,Single,F,37,7.06
+5766,Hospital,Carolina,Puerto Rico,NO,12,15,White,15~19,Black,4~6,NO,131,151,20,1,2,Single,F,39,7.06
+3296,Hospital,Otro,Puerto Rico,SI,12,31,White,30~34,White,1~3,NO,132,149,17,0,1,Single,F,38,6.81
+11173,Hospital,Otro,Puerto Rico,NO,9~11,18,White,25~29,White,1~3,NO,109,140,31,1,2,Single,M,39,8
+39621,Hospital,Otro,Puerto Rico,NO,12,17,White,15~19,White,4~6,NO,90,123,33,1,2,Single,M,41,5.5
+18305,Hospital,Otro,Puerto Rico,NO,12,18,White,20~24,White,4~6,NO,130,147,17,1,2,Single,M,39,6.69
+33249,Hospital,Otro,Am. Norte o sur,NO,MA,27,White,30~34,White,4~6,NO,230,272,42,0,1,Single,M,37,7.31
+23118,Hospital,Otro,No hispano,NO,12,25,White,20~24,White,4~6,NO,197,220,23,0,1,Single,F,39,6.25
+5104,Hospital,Otro,Puerto Rico,NO,12,18,White,20~24,White,1~3,NO,114,140,26,0,1,Single,M,41,6.69
+29629,Hospital,Mayaguez,Puerto Rico,NO,BA,43,White,45~49,White,1~3,NO,155,168,13,1,2,Single,M,21,1
+11321,Hospital,San Juan,Puerto Rico,SI,DOCTORADO,35,Black,30~34,White,1~3,NO,160,201,41,0,1,Twin,M,39,6.19
+4077,Hospital,Mayaguez,Puerto Rico,SI,12,25,White,35~39,White,1~3,NO,120,138,18,0,1,Single,F,38,6.81
+20077,Hospital,Otro,Puerto Rico,SI,Desconocido,31,White,Desconocida,White,1~3,NO,171,206,35,0,1,Single,M,40,9.75
+18918,Hospital,Otro,Puerto Rico,NO,Algunos creditos,31,White,30~34,White,1~3,NO,171,175,4,0,1,Single,M,38,6
+18815,Hospital,Otro,Puerto Rico,SI,12,33,White,30~34,White,4~6,NO,200,212,12,1,2,Single,M,37,6.75
+14216,Hospital,Mayaguez,Puerto Rico,NO,12,27,White,25~29,White,1~3,NO,145,183,38,1,2,Single,M,36,7.56
+23984,Hospital,Otro,Puerto Rico,SI,12,20,White,20~24,White,1~3,NO,115,144,29,1,2,Single,F,36,6.19
+17910,Hospital,Otro,Puerto Rico,NO,12,32,White,20~24,White,1~3,NO,145,168,23,1,2,Single,F,40,6.81
+21872,Hospital,Otro,Puerto Rico,NO,9~11,19,White,20~24,White,4~6,NO,149,156,7,1,2,Single,M,40,5.5
+32581,Hospital,Carolina,Puerto Rico,NO,12,22,Black,Desconocida,Desconocida,1~3,NO,150,180,30,1,2,Single,M,39,6.5
+37680,Hospital,Otro,Puerto Rico,SI,MA,42,White,40~44,White,1~3,NO,170,194,24,0,1,Single,M,36,6.56
+16541,Hospital,Otro,Puerto Rico,NO,GA,19,White,15~19,White,1~3,NO,177,209,32,0,1,Single,M,40,8.13
+25265,Hospital,Otro,Puerto Rico,SI,BA,28,White,30~34,White,1~3,NO,121,148,27,1,2,Single,F,40,7.31
+12002,Hospital,Otro,Puerto Rico,NO,~8VO,15,White,15~19,White,4~6,NO,115,142,27,1,2,Single,F,35,6.62
+9788,Hospital,Ponce,Puerto Rico,SI,BA,28,White,30~34,White,1~3,NO,118,135,17,1,2,Single,M,38,6.75
+10846,Hospital,Otro,Puerto Rico,SI,~8VO,30,White,30~34,White,1~3,NO,229,243,14,0,1,Single,M,39,7.25
+3904,Hospital,Otro,Puerto Rico,NO,Algunos creditos,19,White,25~29,White,1~3,NO,110,138,28,0,1,Single,F,33,2.19
+3227,Hospital,Caguas,Puerto Rico,NO,BA,21,White,15~19,White,1~3,NO,125,142,17,1,2,Single,F,39,6.12
+29606,Hospital,Mayaguez,Puerto Rico,SI,BA,26,White,20~24,White,1~3,NO,163,192,29,0,1,Single,M,32,5.37
+16446,Hospital,San Juan,Puerto Rico,NO,GA,27,White,30~34,White,1~3,NO,149,185,36,1,2,Single,M,35,4.5
+38904,Hospital,Otro,Puerto Rico,SI,GA,34,White,35~39,White,1~3,NO,185,201,16,0,1,Single,M,38,6.88
+29346,Hospital,Carolina,Puerto Rico,SI,GA,26,Black,25~29,White,4~6,NO,160,195,35,1,2,Single,F,35,6.62
+37091,Hospital,Otro,Puerto Rico,NO,12,24,White,15~19,Black,1~3,NO,103,129,26,1,2,Single,F,37,7.37
+39049,Hospital,Otro,Puerto Rico,NO,GA,22,White,Desconocida,Desconocida,1~3,NO,138,148,10,1,2,Single,F,39,5.56
+35814,Hospital,Otro,Puerto Rico,NO,BA,31,White,25~29,White,1~3,NO,135,162,27,1,2,Single,F,38,7.94
+18561,Hospital,Otro,Puerto Rico,SI,12,23,White,20~24,White,1~3,NO,112,134,22,1,2,Single,F,38,6.19
+24153,Hospital,Otro,Puerto Rico,SI,BA,26,White,15~19,White,1~3,NO,178,214,36,0,1,Single,M,38,6.44
+32619,Hospital,Otro,Puerto Rico,NO,GA,36,White,35~39,White,4~6,NO,165,172,7,1,2,Single,F,38,6.88
+36818,Hospital,San Juan,Puerto Rico,SI,12,23,White,25~29,White,1~3,NO,105,134,29,1,2,Single,M,35,6.81
+24347,Hospital,Carolina,Puerto Rico,SI,GA,33,White,30~34,White,1~3,NO,235,279,44,0,1,Single,F,37,8.38
+25807,Hospital,Otro,Puerto Rico,NO,12,26,White,25~29,White,4~6,NO,185,202,17,0,1,Single,F,40,5.75
+875,Hospital,Otro,Puerto Rico,SI,MA,32,White,30~34,White,1~3,NO,190,194,4,0,1,Single,F,40,6.75
+31469,Hospital,Otro,Puerto Rico,SI,GA,30,White,30~34,White,1~3,NO,136,166,30,1,2,Single,F,37,6.25
+41010,Hospital,Bayamon,Puerto Rico,NO,~8VO,19,White,20~24,White,4~6,NO,100,121,21,1,2,Single,M,33,5.63
+12104,Hospital,Bayamon,Puerto Rico,NO,BA,32,Black,35~39,White,1~3,NO,162,288,98,0,1,Single,F,37,5.75
+20529,Hospital,Bayamon,Puerto Rico,NO,GA,35,White,30~34,White,1~3,NO,190,214,24,0,1,Single,M,39,8.75
+39569,Hospital,Caguas,Puerto Rico,SI,BA,32,White,30~34,White,1~3,NO,108,137,29,0,1,Single,F,38,8.19
+1268,Hospital,Otro,Puerto Rico,SI,BA,22,White,20~24,Black,1~3,NO,180,214,34,0,1,Single,M,38,8.06
+9409,Hospital,Otro,Puerto Rico,NO,GA,30,White,30~34,White,1~3,NO,100,123,23,0,1,Single,M,38,8.25
+12897,Hospital,Otro,Puerto Rico,NO,~8VO,23,White,30~34,White,4~6,NO,165,185,20,0,1,Single,M,37,7.81
+25671,Hospital,Otro,Puerto Rico,NO,9~11,17,Black,20~24,Black,7~,NO,169,153,0,1,2,Single,M,35,7.25
+35057,Hospital,Ponce,Puerto Rico,SI,12,24,White,20~24,White,1~3,NO,115,149,34,1,2,Single,M,37,5.81
+18463,Hospital,Ponce,Puerto Rico,NO,BA,23,White,20~24,White,1~3,NO,188,238,50,0,1,Single,F,38,7.56
+22428,Hospital,Otro,Puerto Rico,NO,9~11,17,White,15~19,White,4~6,NO,150,185,35,0,1,Single,M,38,5.81
+6617,Hospital,Otro,Puerto Rico,NO,12,31,White,30~34,White,1~3,NO,110,142,32,0,1,Single,M,37,6.94
+3310,Hospital,Mayaguez,Puerto Rico,SI,BA,26,White,30~34,White,7~,NO,126,158,32,0,1,Single,F,36,6.81
+224,Hospital,Otro,Puerto Rico,NO,12,18,White,15~19,White,4~6,NO,113,143,30,1,2,Single,M,38,9.25
+17860,Hospital,Otro,Puerto Rico,NO,GA,21,White,20~24,White,1~3,NO,98,144,46,0,1,Single,M,38,5.69
+8277,Hospital,Otro,Puerto Rico,SI,GA,38,White,35~39,White,1~3,NO,132,146,14,1,2,Single,F,41,5.69
+16272,Hospital,San Juan,Otro,SI,9~11,36,Black,40~44,Black,4~6,NO,131,150,19,1,2,Single,F,39,7.63
+36156,Hospital,Otro,Puerto Rico,SI,9~11,24,White,20~24,White,1~3,NO,156,179,23,1,2,Single,M,39,7
+38345,Hospital,Mayaguez,Puerto Rico,NO,9~11,22,White,15~19,White,4~6,NO,115,143,28,1,2,Single,M,40,7
+34414,Hospital,San Juan,Puerto Rico,SI,BA,33,White,35~39,White,1~3,NO,185,193,8,0,1,Single,M,38,8.19
+30148,Hospital,Otro,Puerto Rico,NO,9~11,27,White,15~19,Black,1~3,NO,160,183,23,0,1,Single,M,36,6.25
+17142,Hospital,Bayamon,Puerto Rico,NO,12,18,White,20~24,White,1~3,NO,185,197,12,1,2,Single,F,40,7.19
+18387,Hospital,Bayamon,Puerto Rico,NO,GA,37,White,35~39,White,1~3,NO,133,142,9,1,2,Single,F,40,6.25
+38789,Hospital,San Juan,No hispano,SI,DOCTORADO,28,Black,25~29,Black,1~3,NO,170,195,25,0,1,Single,M,40,8.75
+24927,Hospital,Ponce,Puerto Rico,NO,9~11,24,White,25~29,White,1~3,NO,126,145,19,1,2,Single,F,36,5.19
+754,Hospital,Bayamon,Puerto Rico,NO,BA,23,White,45~49,White,4~6,NO,124,154,30,0,1,Single,M,37,7.19
+21285,Hospital,Otro,Puerto Rico,NO,12,18,White,20~24,White,1~3,NO,130,162,32,1,2,Single,F,35,4.5
+34904,Hospital,Ponce,Puerto Rico,NO,GA,32,White,35~39,White,1~3,NO,150,170,20,0,1,Single,M,38,7.87
+4622,Hospital,Otro,Puerto Rico,SI,9~11,19,White,20~24,White,1~3,NO,152,183,31,1,2,Single,M,37,7.56
+9028,Hospital,Caguas,Puerto Rico,SI,GA,40,White,45~49,White,1~3,NO,135,172,37,0,1,Single,M,37,7.25
+16305,Hospital,Otro,Puerto Rico,NO,12,20,White,20~24,White,4~6,NO,114,141,27,1,2,Single,M,39,5.88
+28292,Hospital,Caguas,Puerto Rico,SI,GA,26,White,25~29,White,1~3,NO,184,207,23,0,1,Single,M,39,7.75
+36534,Hospital,Otro,Puerto Rico,SI,9~11,20,White,20~24,White,4~6,NO,150,205,55,1,2,Single,M,38,6.56
+27876,Hospital,Otro,Puerto Rico,SI,12,20,White,20~24,White,4~6,NO,139,167,28,0,1,Single,M,40,7.75
+30532,Hospital,Otro,Puerto Rico,SI,MA,30,White,30~34,White,1~3,NO,118,139,21,1,2,Single,M,38,7.06
+27747,Hospital,Otro,Puerto Rico,SI,GA,32,White,30~34,White,1~3,NO,164,201,37,0,1,Single,F,39,8
+3441,Hospital,Otro,Puerto Rico,SI,BA,31,White,30~34,White,1~3,NO,225,223,0,0,1,Single,M,38,8.62
+23160,Hospital,Otro,Puerto Rico,NO,~8VO,19,White,25~29,White,1~3,NO,99,116,17,0,1,Single,F,38,5.25
+1246,Hospital,San Juan,Puerto Rico,NO,12,20,White,20~24,White,1~3,NO,115,160,45,1,2,Single,F,38,6.56
+24412,Hospital,Carolina,Puerto Rico,NO,BA,27,White,25~29,White,7~,NO,125,155,30,1,2,Single,F,39,6.56
+29281,Hospital,Otro,Puerto Rico,NO,12,21,White,20~24,White,4~6,NO,127,175,48,0,1,Twin,M,36,6.31
+31050,Hospital,Carolina,Puerto Rico,NO,~8VO,18,Black,20~24,Black,4~6,NO,90,112,22,1,2,Single,F,38,6.19
+32393,Hospital,Otro,Puerto Rico,NO,12,24,White,25~29,White,4~6,NO,140,160,20,0,1,Single,M,37,7.25
+3910,Hospital,San Juan,Puerto Rico,NO,Algunos creditos,19,White,25~29,White,4~6,NO,190,210,20,1,2,Single,F,39,7.31
+20505,Hospital,San Juan,Puerto Rico,NO,12,20,White,15~19,White,4~6,NO,170,186,16,0,1,Single,F,36,6.75
+26475,Hospital,Otro,Puerto Rico,NO,BA,26,White,25~29,White,1~3,NO,148,162,14,1,2,Single,F,36,6
+16704,Hospital,Otro,Puerto Rico,NO,~8VO,27,White,25~29,White,4~6,NO,125,140,15,0,1,Single,F,40,4.06
+24482,Hospital,Caguas,Puerto Rico,NO,MA,41,White,55~98,White,1~3,NO,132,148,16,0,1,Single,M,39,5.94
+24790,Hospital,Otro,Puerto Rico,NO,Algunos creditos,22,White,20~24,White,4~6,NO,138,146,8,0,1,Single,M,37,8.5
+39543,Hospital,Otro,Puerto Rico,SI,9~11,22,Black,25~29,White,7~,NO,109,136,27,0,1,Single,M,39,7.19
+1391,Hospital,Bayamon,Puerto Rico,NO,12,20,White,20~24,White,4~6,NO,93,107,14,0,1,Single,M,38,6.19
+26418,Hospital,Otro,Puerto Rico,NO,12,28,White,30~34,White,1~3,NO,120,125,5,1,2,Single,F,38,6.81
+8458,Hospital,Otro,Puerto Rico,SI,BA,36,White,30~34,White,1~3,NO,158,180,22,1,2,Single,F,40,5.56
+24761,Hospital,Otro,Puerto Rico,NO,12,22,White,15~19,Black,1~3,NO,205,200,0,0,1,Single,M,38,7
+27672,Hospital,Bayamon,Puerto Rico,NO,9~11,19,White,Desconocida,Desconocida,4~6,NO,120,134,14,1,2,Single,M,40,7.63
+24883,Hospital,Otro,Puerto Rico,SI,12,20,White,20~24,White,4~6,NO,114,149,35,1,2,Single,F,40,7.44
+363,Hospital,Otro,Puerto Rico,NO,12,22,White,20~24,White,1~3,NO,100,128,28,1,2,Single,M,38,6.94
+12775,Hospital,Otro,Puerto Rico,NO,9~11,20,White,20~24,White,7~,NO,105,119,14,1,2,Single,F,37,5.75
+17391,Hospital,Otro,Puerto Rico,NO,BA,32,White,30~34,White,1~3,NO,160,192,32,0,1,Single,M,37,7.06
+9072,Hospital,Otro,Otro,NO,9~11,26,White,40~44,Black,7~,NO,130,150,20,0,1,Single,M,37,6.88
+4445,Hospital,Bayamon,Puerto Rico,NO,DOCTORADO,32,White,30~34,White,1~3,NO,116,143,27,1,2,Single,M,37,5.75
+24829,Hospital,Otro,Puerto Rico,NO,12,28,White,25~29,White,1~3,NO,185,231,46,1,2,Single,M,37,8.62
+30426,Hospital,Otro,No hispano,SI,Algunos creditos,27,White,25~29,White,1~3,NO,137,158,21,1,2,Single,M,38,6.94
+37110,Hospital,Otro,Puerto Rico,SI,BA,34,White,30~34,White,1~3,NO,103,130,27,1,2,Single,M,41,6.88
+5407,Hospital,Otro,Puerto Rico,SI,BA,30,White,25~29,White,1~3,NO,150,171,21,0,1,Single,M,34,3.5
+22068,Hospital,Otro,Puerto Rico,SI,~8VO,18,White,15~19,White,1~3,NO,97,114,17,0,1,Single,M,40,5.37
+16267,Hospital,Otro,Puerto Rico,NO,12,29,White,30~34,White,1~3,NO,176,185,9,1,2,Single,M,42,9.19
+1315,Hospital,Otro,Puerto Rico,SI,12,21,White,20~24,White,1~3,NO,96,126,30,0,1,Single,M,38,6.62
+30905,Hospital,Otro,Puerto Rico,NO,12,17,White,15~19,White,4~6,NO,106,127,21,0,1,Single,F,40,6.25
+33878,Hospital,Otro,Puerto Rico,NO,12,22,White,20~24,White,1~3,NO,170,176,6,1,2,Single,M,39,6.5
+17297,Hospital,San Juan,Puerto Rico,NO,GA,25,White,25~29,Black,4~6,NO,120,157,37,1,2,Single,M,40,6.75
+18808,Hospital,Otro,Puerto Rico,NO,12,20,White,20~24,White,1~3,NO,99,124,25,1,2,Single,M,38,6.38
+19236,Hospital,Otro,Puerto Rico,NO,9~11,20,White,20~24,White,1~3,NO,125,147,22,1,2,Single,F,39,7.94
+34429,Hospital,San Juan,Puerto Rico,NO,~8VO,20,White,25~29,Black,7~,NO,132,138,6,1,2,Single,M,39,7.69
+40864,Hospital,Otro,Puerto Rico,NO,12,19,White,Desconocida,Desconocida,1~3,NO,96,123,27,1,2,Single,M,34,5.44
+7408,Hospital,Otro,Puerto Rico,NO,12,23,White,25~29,Black,1~3,NO,180,194,14,1,2,Single,M,35,5.69
+14495,Hospital,Otro,Puerto Rico,NO,GA,23,White,25~29,White,4~6,NO,130,167,37,0,1,Single,M,38,7.63
+34007,Hospital,Bayamon,Puerto Rico,SI,BA,28,White,30~34,White,1~3,NO,190,200,10,0,1,Single,M,37,6.81
+20527,Hospital,Otro,Puerto Rico,NO,12,21,White,15~19,Black,1~3,NO,155,182,27,1,2,Single,M,38,9.81
+12834,Hospital,Otro,Puerto Rico,NO,12,18,White,20~24,White,1~3,NO,120,146,26,1,2,Single,F,38,6.06
+18555,Hospital,Otro,Puerto Rico,NO,12,26,White,25~29,White,1~3,NO,205,231,26,0,1,Single,F,38,6.75
+34748,Hospital,Ponce,Puerto Rico,NO,12,21,White,20~24,White,1~3,NO,120,165,45,0,1,Single,F,39,6.69
+13475,Hospital,Carolina,Puerto Rico,SI,12,31,White,30~34,White,1~3,NO,100,133,33,1,2,Single,M,39,5.81
+39246,Hospital,Otro,Puerto Rico,NO,BA,31,White,30~34,White,1~3,NO,180,197,17,1,2,Single,F,39,7.56
+28968,Hospital,Otro,Puerto Rico,NO,12,24,White,25~29,White,4~6,NO,85,101,16,1,2,Single,F,38,5.13
+39863,Hospital,Otro,Puerto Rico,NO,GA,33,White,25~29,White,1~3,NO,135,165,30,1,2,Single,F,38,6.62
+8812,Hospital,San Juan,Otro,SI,12,28,White,25~29,White,4~6,NO,205,238,33,1,2,Single,F,40,7.44
+22780,Hospital,Otro,Puerto Rico,NO,BA,32,White,25~29,White,1~3,NO,138,179,41,0,1,Single,M,38,4.12
+29422,Hospital,Carolina,Puerto Rico,NO,12,28,White,30~34,White,1~3,NO,134,164,30,1,2,Single,M,39,6.25
+36278,Hospital,Otro,Puerto Rico,NO,GA,23,White,25~29,White,4~6,NO,168,180,12,1,2,Single,F,40,5.63
+11109,Hospital,Mayaguez,Puerto Rico,NO,~8VO,19,White,25~29,White,1~3,NO,100,153,53,1,2,Single,M,39,6.44
+13433,Hospital,San Juan,Otro,SI,GA,25,Black,35~39,Black,1~3,NO,102,152,50,0,1,Single,M,39,7.69
+33663,Hospital,Caguas,Puerto Rico,NO,12,21,White,20~24,White,1~3,NO,90,118,28,0,1,Single,M,41,6.44
+23272,Hospital,Ponce,Puerto Rico,NO,12,29,White,Desconocida,Desconocida,4~6,NO,250,246,0,0,1,Single,M,42,6.12
+18674,Hospital,Otro,Puerto Rico,SI,12,26,White,25~29,White,1~3,NO,169,186,17,0,1,Single,F,35,7.44
+28236,Hospital,Otro,Puerto Rico,NO,GA,20,White,20~24,White,4~6,NO,132,148,16,1,2,Single,F,39,8.56
+59,Hospital,Otro,Puerto Rico,SI,BA,26,White,30~34,White,1~3,NO,90,124,34,1,2,Single,F,38,6.75
+16927,Hospital,Otro,Puerto Rico,SI,BA,34,White,30~34,White,1~3,NO,153,185,32,0,1,Twin,M,37,4.12
+10751,Hospital,Otro,Puerto Rico,SI,BA,28,White,25~29,White,1~3,NO,160,168,8,0,1,Single,M,38,6.81
+23428,Hospital,Otro,Puerto Rico,SI,DOCTORADO,30,White,30~34,White,1~3,NO,135,187,52,0,1,Single,F,36,7.5
+18612,Hospital,Otro,Puerto Rico,SI,GA,24,White,25~29,White,1~3,NO,185,199,14,0,1,Single,M,39,7.81
+33362,Hospital,Otro,Puerto Rico,SI,MA,33,White,30~34,Black,1~3,NO,120,135,15,0,1,Single,M,38,6.69
+6046,Hospital,Otro,Puerto Rico,NO,12,22,White,20~24,White,4~6,NO,191,206,15,1,2,Single,F,38,6.06
+9199,Hospital,Otro,Puerto Rico,NO,12,24,Black,25~29,White,1~3,NO,165,221,56,0,1,Single,F,38,6.06
+40514,Hospital,San Juan,Puerto Rico,NO,12,31,White,25~29,Black,4~6,NO,164,190,26,1,2,Single,M,39,6.31
+32074,Hospital,Otro,Puerto Rico,NO,BA,37,Black,20~24,Black,1~3,NO,158,203,45,0,1,Single,F,40,7.63
+6325,Hospital,Otro,Puerto Rico,SI,BA,32,White,35~39,White,1~3,NO,146,169,23,1,2,Single,F,39,7.06
+688,Hospital,Otro,Puerto Rico,NO,Algunos creditos,21,White,20~24,White,1~3,NO,120,142,22,1,2,Single,M,37,6.25
+12879,Hospital,Otro,No hispano,NO,12,18,White,20~24,White,1~3,NO,130,146,16,1,2,Single,F,39,6.12
+20039,Hospital,Otro,Puerto Rico,NO,12,17,White,20~24,White,1~3,NO,103,119,16,1,2,Single,F,40,7.44
+30955,Hospital,Carolina,Puerto Rico,NO,12,19,White,20~24,Desconocida,1~3,NO,102,142,40,0,1,Single,F,39,6.81
+11140,Hospital,Otro,No hispano,NO,9~11,21,White,40~44,White,1~3,NO,169,172,3,0,1,Single,F,39,7.25
+29017,Hospital,Otro,Puerto Rico,NO,BA,25,White,30~34,White,1~3,NO,151,165,14,1,2,Single,F,38,6.69
+39786,Hospital,Ponce,Puerto Rico,SI,DOCTORADO,27,White,30~34,White,1~3,NO,90,131,41,1,2,Single,M,37,6.81
+30795,Hospital,Otro,Puerto Rico,NO,Algunos creditos,19,White,15~19,Black,1~3,NO,127,167,40,0,1,Single,F,39,6.31
+7010,Hospital,Otro,Puerto Rico,SI,BA,26,White,25~29,White,1~3,NO,135,151,16,1,2,Single,F,35,6.25
+33734,Hospital,Carolina,Puerto Rico,NO,BA,37,White,40~44,White,1~3,NO,140,170,30,1,2,Single,F,39,7.87
+14482,Hospital,Caguas,Puerto Rico,NO,9~11,17,White,20~24,White,1~3,NO,108,128,20,1,2,Single,M,36,6.12
+14933,Hospital,Otro,Puerto Rico,NO,GA,22,White,20~24,Black,1~3,NO,167,198,31,0,1,Single,F,40,7.25
+15052,Hospital,San Juan,Puerto Rico,SI,DOCTORADO,29,White,30~34,White,4~6,NO,149,190,41,1,2,Single,F,41,7.06
+28819,Hospital,Otro,Puerto Rico,NO,9~11,18,Black,30~34,White,1~3,NO,111,140,29,1,2,Single,M,39,7.69
+11392,Hospital,Otro,Puerto Rico,NO,12,26,Black,20~24,Black,1~3,NO,115,145,30,0,1,Single,F,38,6.06
+10978,Hospital,Caguas,Puerto Rico,NO,BA,30,White,35~39,White,1~3,NO,162,192,30,0,1,Single,M,38,8.19
+32764,Hospital,Otro,Puerto Rico,NO,12,28,White,35~39,White,1~3,NO,185,196,11,1,2,Single,M,35,5.25
+6182,Hospital,Otro,Puerto Rico,NO,GA,20,White,20~24,White,4~6,NO,120,141,21,0,1,Single,M,39,7.37
+27548,Hospital,Otro,Puerto Rico,NO,9~11,17,White,20~24,White,4~6,NO,118,145,27,1,2,Single,M,36,6.38
+38000,Hospital,Otro,Puerto Rico,NO,12,18,White,20~24,Black,1~3,NO,164,200,36,1,2,Single,F,39,7.81
+23915,Hospital,San Juan,Puerto Rico,SI,BA,30,White,35~39,White,1~3,NO,138,154,16,1,2,Single,F,38,7.25
+16881,Hospital,Mayaguez,Puerto Rico,NO,9~11,22,White,25~29,White,1~3,NO,124,133,9,0,1,Single,F,39,6.25
+27315,Hospital,Carolina,Puerto Rico,SI,BA,36,Black,40~44,White,1~3,NO,166,200,34,0,1,Single,F,24,1.94
+16864,Hospital,Otro,Puerto Rico,NO,9~11,21,White,20~24,White,4~6,NO,110,140,30,1,2,Single,M,38,7.13
+16768,Hospital,Carolina,Puerto Rico,NO,GA,27,Black,25~29,White,1~3,NO,173,201,28,0,1,Single,M,38,5.94
+40144,Hospital,San Juan,Puerto Rico,SI,12,36,White,45~49,White,1~3,NO,130,165,35,0,1,Single,F,38,7.13
+36198,Hospital,Otro,Puerto Rico,SI,GA,22,White,20~24,Black,1~3,NO,146,175,29,0,1,Single,F,40,7.63
+19129,Hospital,Otro,Puerto Rico,NO,12,27,White,30~34,White,1~3,NO,138,176,38,0,1,Single,F,40,6.56
+19189,Hospital,Otro,Puerto Rico,SI,BA,35,White,35~39,White,1~3,NO,190,229,39,0,1,Single,M,37,7.81
+4948,Hospital,Otro,Puerto Rico,SI,DOCTORADO,32,White,30~34,White,1~3,NO,128,166,38,0,1,Single,F,36,6.25
+24391,Hospital,Caguas,Puerto Rico,NO,12,31,White,30~34,White,1~3,NO,126,166,40,0,1,Single,M,38,6.94
+18778,Hospital,San Juan,Puerto Rico,SI,12,32,White,30~34,White,1~3,NO,128,150,22,1,2,Single,F,36,4.75
+6733,Hospital,San Juan,Puerto Rico,NO,12,20,White,20~24,White,1~3,NO,150,165,15,0,1,Single,F,32,3.69
+5380,Hospital,Otro,Puerto Rico,NO,12,34,White,Desconocida,Desconocida,4~6,NO,226,248,22,0,1,Single,M,39,6.94
+9229,Hospital,Otro,Otro,NO,~8VO,21,White,20~24,Desconocida,1~3,NO,110,139,29,1,2,Single,F,36,5.06
+30459,Hospital,Ponce,Puerto Rico,SI,MA,32,White,30~34,White,1~3,NO,130,145,15,1,2,Single,M,38,6.31
+20031,Hospital,Caguas,Puerto Rico,NO,~8VO,30,White,35~39,White,1~3,NO,216,240,24,0,1,Single,M,37,9.38
+34797,Hospital,Otro,Puerto Rico,SI,GA,33,White,35~39,White,1~3,NO,175,196,21,0,1,Single,F,37,6.69
+10969,Hospital,Otro,Puerto Rico,NO,9~11,19,White,20~24,White,7~,NO,116,128,12,1,2,Single,M,39,6.81
+15349,Hospital,Otro,Puerto Rico,NO,BA,31,White,35~39,White,1~3,NO,151,178,27,1,2,Single,F,38,5.75
+3753,Hospital,Otro,Puerto Rico,NO,12,28,White,20~24,White,1~3,NO,128,170,42,0,1,Twin,F,36,6.25
+3151,Hospital,Otro,Puerto Rico,SI,12,29,White,20~24,White,4~6,NO,199,216,17,1,2,Single,F,39,5.69
+27736,Hospital,Otro,Puerto Rico,SI,12,19,White,20~24,White,1~3,NO,125,155,30,0,1,Single,F,37,8.13
+9585,Hospital,Otro,Puerto Rico,NO,12,18,White,20~24,White,4~6,NO,96,116,20,0,1,Single,M,37,6.31
+16620,Hospital,Otro,Puerto Rico,SI,GA,45,White,45~49,White,4~6,NO,123,144,21,0,1,Single,M,44,7.44
+4865,Hospital,Otro,Puerto Rico,NO,12,27,White,45~49,White,1~3,NO,151,153,2,1,2,Single,M,39,7.5
+9970,Hospital,Otro,Puerto Rico,NO,9~11,25,White,25~29,White,1~3,NO,150,170,20,0,1,Twin,M,35,5.13
+28629,Hospital,Otro,Puerto Rico,NO,GA,34,White,25~29,White,1~3,NO,96,123,27,0,1,Single,M,39,7.5
+22790,Hospital,Otro,Puerto Rico,SI,12,22,White,20~24,White,1~3,NO,112,135,23,1,2,Single,F,39,6.12
+38130,Hospital,Otro,Puerto Rico,SI,GA,26,White,20~24,White,Desconocido,NO,135,190,55,1,2,Single,F,NA,5.88
+17926,Hospital,Otro,Puerto Rico,SI,BA,33,White,30~34,White,1~3,NO,168,203,35,0,1,Single,M,33,5.81
+12010,Hospital,Otro,Puerto Rico,NO,12,20,White,20~24,White,1~3,NO,120,143,23,1,2,Single,F,36,5.75
+12168,Hospital,Mayaguez,Puerto Rico,NO,BA,35,White,35~39,White,1~3,NO,149,170,21,0,1,Single,M,37,7.63
+28842,Hospital,Otro,Puerto Rico,NO,BA,27,White,30~34,White,1~3,NO,143,176,33,0,1,Single,M,39,6.38
+230,Hospital,Otro,Puerto Rico,SI,12,26,White,25~29,White,1~3,NO,126,152,26,0,1,Single,F,39,7.25
+14521,Hospital,Otro,Puerto Rico,NO,9~11,22,White,25~29,White,1~3,NO,120,156,36,1,2,Single,M,39,7.63
+6086,Hospital,Caguas,Puerto Rico,NO,12,19,White,Desconocida,Desconocida,4~6,NO,200,234,34,0,1,Single,F,39,7.31
+29483,Hospital,Otro,Puerto Rico,NO,12,22,White,30~34,White,1~3,NO,119,155,36,0,1,Single,M,39,6.38
+27600,Hospital,Otro,Puerto Rico,NO,9~11,16,White,Desconocida,Desconocida,1~3,NO,88,113,25,1,2,Single,M,36,4.19
+6118,Hospital,Otro,Puerto Rico,NO,Algunos creditos,28,White,35~39,White,4~6,NO,120,158,38,1,2,Single,F,42,8.38
+32676,Hospital,Otro,Puerto Rico,NO,GA,21,Black,20~24,White,1~3,NO,173,215,42,1,2,Single,M,37,7.56
+30309,Hospital,San Juan,Otro,SI,9~11,27,White,25~29,White,1~3,NO,171,171,0,0,1,Single,F,40,6.62
+5397,Hospital,Bayamon,Otro,SI,GA,29,White,30~34,White,1~3,NO,108,138,30,1,2,Single,M,38,7.31
+17748,Hospital,Otro,Puerto Rico,NO,GA,21,White,20~24,White,1~3,NO,131,172,41,1,2,Single,M,40,6.19
+36730,Hospital,Bayamon,Otro,NO,12,26,White,30~34,White,1~3,NO,136,184,48,1,2,Single,F,40,7.25
+10582,Hospital,Otro,Puerto Rico,SI,Algunos creditos,32,White,30~34,White,1~3,NO,141,171,30,0,1,Single,F,39,6.88
+7420,Hospital,Otro,Puerto Rico,NO,Algunos creditos,24,White,25~29,White,1~3,NO,93,130,37,1,2,Single,M,37,6.5
+21734,Hospital,Otro,Puerto Rico,SI,BA,40,White,45~49,White,1~3,NO,190,198,8,1,2,Single,M,38,7.25
+17767,Hospital,Otro,Puerto Rico,NO,Algunos creditos,26,White,35~39,White,1~3,NO,144,178,34,1,2,Single,M,36,5.06
+4531,Hospital,San Juan,Puerto Rico,NO,12,21,Black,15~19,Black,1~3,NO,181,213,32,1,2,Single,F,39,8.25
+1889,Hospital,Mayaguez,Puerto Rico,NO,BA,38,White,30~34,White,4~6,NO,193,244,51,0,1,Single,M,37,10.63
+26909,Hospital,Bayamon,Puerto Rico,NO,9~11,26,White,20~24,White,7~,NO,250,275,25,0,1,Single,F,39,7.5
+18452,Hospital,Otro,Puerto Rico,NO,Algunos creditos,23,White,25~29,White,1~3,NO,145,170,25,1,2,Single,M,39,6.25
+27028,Hospital,Otro,Puerto Rico,NO,BA,25,White,25~29,White,1~3,NO,135,174,39,0,1,Single,F,38,7.37
+39255,Hospital,Otro,Puerto Rico,NO,12,18,White,20~24,White,1~3,NO,103,130,27,0,1,Single,M,39,7.06
+29358,Hospital,Mayaguez,Puerto Rico,NO,BA,33,White,45~49,Black,4~6,NO,154,216,62,1,2,Single,M,40,5.88
+26858,Hospital,Otro,Puerto Rico,NO,Algunos creditos,34,White,40~44,White,1~3,NO,135,148,13,0,1,Single,M,38,6.62
+874,Hospital,Caguas,Puerto Rico,NO,9~11,15,White,25~29,White,1~3,NO,140,164,24,0,1,Single,M,38,8.19
+13584,Hospital,Otro,Puerto Rico,SI,BA,34,White,30~34,White,4~6,NO,175,204,29,0,1,Single,F,38,6.19
+2127,Hospital,Otro,Puerto Rico,SI,12,18,White,15~19,White,1~3,NO,119,128,9,1,2,Single,M,38,7.19
+34961,Hospital,Otro,Puerto Rico,SI,BA,30,White,30~34,White,1~3,NO,148,166,18,0,1,Single,M,37,5.94
+7245,Hospital,Otro,Puerto Rico,SI,Algunos creditos,25,White,25~29,White,1~3,NO,150,165,15,0,1,Single,M,39,8.31
+10611,Hospital,Caguas,Puerto Rico,SI,12,22,White,25~29,White,1~3,NO,110,154,44,0,1,Single,M,38,7.25
+30372,Hospital,Otro,Puerto Rico,NO,12,28,White,Desconocida,Desconocida,1~3,NO,200,215,15,0,1,Single,M,38,6.62
+3354,Hospital,Otro,Puerto Rico,SI,DOCTORADO,29,White,30~34,White,1~3,NO,142,168,26,1,2,Single,F,42,8.69
+33131,Hospital,Otro,Puerto Rico,SI,GA,24,White,25~29,White,1~3,NO,169,182,13,0,1,Single,F,39,8.5
+21174,Hospital,Carolina,Puerto Rico,SI,BA,36,Black,40~44,White,1~3,NO,156,189,33,0,1,Single,M,36,7.37
+30069,Hospital,San Juan,Puerto Rico,SI,DOCTORADO,29,White,25~29,White,1~3,NO,99,118,19,0,1,Single,M,40,5.69
+24495,Hospital,Otro,Puerto Rico,NO,12,31,White,20~24,White,1~3,NO,160,186,26,1,2,Single,F,38,7.56
+29842,Hospital,Otro,Puerto Rico,NO,12,17,White,20~24,White,4~6,NO,185,175,0,1,2,Single,M,40,8.62
+3428,Hospital,Carolina,Puerto Rico,SI,12,25,White,25~29,White,1~3,NO,123,154,31,0,1,Twin,F,37,6.25
+9987,Hospital,Otro,Puerto Rico,NO,GA,26,Black,25~29,Black,1~3,NO,146,172,26,0,1,Single,F,40,6.25
+13278,Hospital,Otro,Puerto Rico,SI,BA,22,Black,20~24,Black,1~3,NO,203,220,17,1,2,Single,F,39,7
+2417,Hospital,Otro,Puerto Rico,SI,GA,25,White,25~29,White,1~3,NO,125,156,31,0,1,Single,F,39,8.38
+30913,Hospital,Otro,Puerto Rico,SI,12,24,White,25~29,White,1~3,NO,156,176,20,1,2,Single,F,37,6.62
+36754,Hospital,Mayaguez,Puerto Rico,NO,12,21,White,30~34,White,1~3,NO,136,186,50,1,2,Single,F,39,7.37
+32652,Hospital,Bayamon,Puerto Rico,NO,9~11,16,White,15~19,White,1~3,NO,115,120,5,0,1,Twin,M,33,4.19
+34253,Hospital,Otro,Puerto Rico,NO,GA,20,White,20~24,White,4~6,NO,130,151,21,0,1,Single,M,38,7.56
+26646,Hospital,Otro,Puerto Rico,NO,12,26,White,20~24,White,7~,NO,80,108,28,1,2,Single,M,40,7.13
+3761,Hospital,Otro,Puerto Rico,SI,MA,34,White,35~39,White,1~3,NO,135,160,25,0,1,Single,M,38,7.87
+41029,Hospital,Otro,No hispano,SI,DOCTORADO,38,White,40~44,White,1~3,NO,163,193,30,1,2,Single,F,39,7.94
+12891,Hospital,Otro,Puerto Rico,NO,12,36,White,25~29,White,4~6,NO,140,180,40,0,1,Single,M,26,1.94
+27808,Hospital,Otro,Puerto Rico,NO,12,20,White,25~29,White,1~3,NO,165,175,10,0,1,Single,F,37,6.12
+17226,Hospital,Otro,Puerto Rico,NO,GA,20,White,20~24,White,4~6,NO,135,177,42,0,1,Single,M,41,6.44
+26893,Hospital,Bayamon,Puerto Rico,SI,Algunos creditos,25,White,30~34,White,1~3,NO,141,152,11,0,1,Single,F,38,6.75
+26400,Hospital,Otro,Puerto Rico,SI,BA,39,White,35~39,White,1~3,NO,98,110,12,0,1,Single,F,31,3.19
+7679,Hospital,Otro,No hispano,NO,BA,25,White,25~29,White,1~3,NO,192,222,30,1,2,Single,F,37,7.19
+37293,Hospital,Otro,Puerto Rico,NO,GA,26,White,30~34,White,1~3,NO,208,231,23,1,2,Single,M,39,6.31
+10737,Hospital,Otro,Puerto Rico,SI,Algunos creditos,34,Black,30~34,Black,1~3,NO,144,165,21,0,1,Single,M,40,6.75
+24286,Hospital,Otro,Puerto Rico,NO,9~11,15,White,20~24,White,4~6,NO,161,186,25,1,2,Single,M,40,6.19
+23568,Hospital,Otro,Puerto Rico,SI,GA,32,White,30~34,White,1~3,NO,148,175,27,0,1,Single,F,38,7.56
+26308,Hospital,Otro,Puerto Rico,NO,Algunos creditos,22,White,Desconocida,Desconocida,1~3,NO,97,124,27,0,1,Single,M,37,6.88
+24857,Hospital,Otro,Puerto Rico,NO,12,23,White,25~29,White,1~3,NO,108,140,32,1,2,Single,F,38,6.5
+35008,Hospital,Otro,Puerto Rico,SI,BA,25,White,25~29,White,1~3,NO,130,165,35,0,1,Single,M,39,7.13
+20213,Hospital,Otro,Puerto Rico,NO,9~11,15,White,15~19,White,1~3,NO,110,130,20,1,2,Single,F,36,6.75
+31593,Hospital,Otro,Puerto Rico,NO,BA,28,White,20~24,White,1~3,NO,125,167,42,0,1,Single,M,34,4.56
+3106,Hospital,Otro,Puerto Rico,NO,12,34,White,25~29,Black,1~3,NO,186,220,34,1,2,Single,F,39,7.81
+29066,Hospital,Otro,Puerto Rico,SI,MA,29,White,25~29,White,1~3,NO,150,203,53,1,2,Single,F,31,7.25
+12093,Hospital,Otro,Puerto Rico,NO,GA,31,White,25~29,Black,1~3,NO,169,216,47,1,2,Single,F,38,8.13
+1706,Hospital,Otro,Puerto Rico,SI,12,29,White,30~34,White,4~6,NO,170,199,29,1,2,Single,F,36,7.94
+25641,Hospital,Otro,Puerto Rico,SI,MA,32,White,50~54,White,4~6,NO,173,193,20,1,2,Single,M,39,7
+18007,Hospital,San Juan,Puerto Rico,NO,12,18,White,15~19,White,4~6,NO,166,196,30,1,2,Single,M,39,8.06
+16798,Hospital,Otro,Puerto Rico,SI,9~11,24,White,30~34,White,1~3,NO,118,152,34,1,2,Single,M,38,7.37
+37342,Hospital,Ponce,Puerto Rico,NO,BA,38,White,40~44,White,1~3,NO,168,172,4,0,1,Single,F,39,6.06
+7430,Hospital,San Juan,Puerto Rico,NO,12,18,Black,20~24,Black,1~3,NO,182,214,32,1,2,Single,M,40,6.25
+11227,Hospital,Ponce,Puerto Rico,SI,GA,27,White,25~29,White,1~3,NO,104,140,36,0,1,Single,M,39,8.5
+30373,Hospital,Otro,Puerto Rico,NO,GA,22,White,25~29,White,1~3,NO,134,141,7,1,2,Single,F,40,5.56
+5204,Hospital,Otro,Puerto Rico,SI,12,22,White,25~29,White,1~3,NO,123,155,32,1,2,Single,M,40,8
+21012,Hospital,Carolina,Puerto Rico,NO,MA,35,White,35~39,White,1~3,NO,153,164,11,1,2,Single,M,40,7.37
+18513,Hospital,Otro,Puerto Rico,NO,12,25,White,25~29,White,4~6,NO,108,143,35,0,1,Single,M,38,5.19
+7928,Hospital,Otro,Puerto Rico,SI,DOCTORADO,33,White,30~34,White,4~6,NO,180,220,40,0,1,Single,M,39,8.62
+33235,Hospital,Ponce,Puerto Rico,NO,9~11,16,White,30~34,White,4~6,NO,143,166,23,1,2,Single,M,41,6.56
+36785,Hospital,Otro,Puerto Rico,NO,BA,30,White,35~39,White,1~3,NO,162,186,24,1,2,Single,M,36,5.63
+6094,Hospital,Otro,Puerto Rico,SI,12,21,White,25~29,White,1~3,NO,136,156,20,1,2,Single,F,39,6.94
+29522,Hospital,Otro,Puerto Rico,NO,12,18,White,20~24,White,1~3,NO,130,148,18,1,2,Single,M,39,6.88
+28031,Hospital,Otro,Puerto Rico,NO,12,18,White,20~24,White,1~3,NO,101,136,35,1,2,Single,F,38,7.69
+35035,Hospital,Otro,Puerto Rico,SI,BA,34,White,45~49,White,1~3,NO,112,159,47,0,1,Single,F,38,5.94
+5293,Hospital,Otro,Puerto Rico,NO,GA,23,White,Desconocida,Desconocida,4~6,NO,103,138,35,1,2,Single,F,39,6.75
+20053,Hospital,Otro,Puerto Rico,NO,GA,23,White,15~19,White,1~3,NO,105,139,34,1,2,Single,F,39,6.81
+22376,Hospital,Otro,Puerto Rico,NO,12,18,White,15~19,White,1~3,NO,106,145,39,1,2,Single,M,39,9.06
+39710,Hospital,Otro,Puerto Rico,SI,GA,26,White,25~29,Black,1~3,NO,125,192,67,0,1,Single,M,40,8.25
+18551,Hospital,Ponce,Puerto Rico,NO,12,20,White,20~24,White,4~6,NO,159,180,21,0,1,Single,M,38,6.5
+5490,Hospital,San Juan,Puerto Rico,NO,12,18,White,15~19,Black,1~3,NO,110,143,33,1,2,Single,M,39,7
+28194,Hospital,Otro,Puerto Rico,NO,12,20,White,20~24,White,1~3,NO,157,186,29,1,2,Single,M,41,7
+16716,Hospital,Otro,Puerto Rico,SI,BA,33,White,40~44,White,1~3,NO,150,175,25,0,1,Single,F,40,8
+33805,Hospital,Bayamon,Puerto Rico,NO,Algunos creditos,18,White,20~24,White,1~3,NO,94,118,24,0,1,Single,M,39,6.69
+31832,Hospital,Caguas,Puerto Rico,SI,12,26,White,25~29,White,1~3,NO,132,172,40,1,2,Single,M,40,5.88
+6125,Hospital,Otro,Puerto Rico,NO,12,25,White,15~19,White,4~6,NO,205,244,39,1,2,Single,F,39,6.5
+33637,Hospital,San Juan,Puerto Rico,NO,12,40,White,35~39,White,4~6,NO,168,179,11,0,1,Single,F,37,7.94
+21550,Hospital,Otro,Puerto Rico,SI,12,25,White,25~29,White,4~6,NO,172,223,51,0,1,Single,M,39,8.44
+32242,Hospital,San Juan,Otro,NO,12,22,Black,25~29,Black,1~3,NO,148,182,34,1,2,Single,M,39,6.88
+9361,Hospital,Otro,Puerto Rico,SI,BA,30,White,30~34,Black,1~3,NO,151,157,6,0,1,Single,F,40,7.31
+22021,Hospital,Bayamon,Puerto Rico,NO,9~11,18,Black,20~24,Black,4~6,NO,125,142,17,0,1,Single,M,38,6
+1530,Hospital,Otro,Puerto Rico,NO,12,19,White,20~24,White,4~6,NO,102,132,30,0,1,Single,F,38,6.19
+17043,Hospital,Mayaguez,Puerto Rico,SI,12,23,White,20~24,White,1~3,NO,137,165,28,0,1,Single,F,39,5.63
+11543,Hospital,San Juan,Puerto Rico,NO,GA,31,Black,30~34,White,1~3,NO,123,187,64,1,2,Single,F,40,6.75
+24555,Hospital,Ponce,Puerto Rico,NO,12,20,White,20~24,White,1~3,NO,156,192,36,1,2,Single,M,36,6.94
+20903,Hospital,Otro,Puerto Rico,NO,9~11,21,White,30~34,White,1~3,NO,143,193,50,1,2,Single,F,36,7.75
+39878,Hospital,Otro,Puerto Rico,SI,~8VO,16,Black,20~24,White,1~3,NO,118,166,48,0,1,Single,M,38,6.69
+37839,Hospital,Otro,Puerto Rico,NO,BA,28,White,25~29,White,1~3,NO,145,167,22,1,2,Single,F,40,7.13
+40419,Hospital,Otro,Puerto Rico,NO,Algunos creditos,21,White,15~19,White,1~3,NO,131,168,37,0,1,Single,F,39,6.56
+11737,Hospital,Otro,Puerto Rico,SI,BA,25,White,25~29,White,1~3,NO,125,155,30,1,2,Single,M,38,6.75
+38802,Hospital,Otro,Puerto Rico,SI,BA,31,White,35~39,White,1~3,NO,142,162,20,0,1,Single,F,36,6.25
+12189,Hospital,Otro,Puerto Rico,SI,GA,23,White,25~29,White,1~3,NO,136,160,24,1,2,Single,F,38,6.94
+6903,Hospital,Otro,Puerto Rico,SI,12,20,White,30~34,White,1~3,NO,156,178,22,0,1,Single,M,39,9.5
+2196,Hospital,Otro,Puerto Rico,SI,12,34,White,30~34,White,1~3,NO,176,201,25,1,2,Single,M,37,6.38
+31310,Hospital,Otro,Puerto Rico,NO,9~11,30,White,25~29,White,1~3,NO,146,172,26,1,2,Single,F,39,8.44
+672,Hospital,Otro,Puerto Rico,NO,Algunos creditos,19,White,15~19,White,4~6,NO,156,183,27,0,1,Single,M,40,7.06
+21935,Hospital,Otro,Puerto Rico,SI,9~11,17,White,20~24,White,4~6,NO,130,148,18,1,2,Single,F,35,6.75
+31172,Hospital,Otro,Puerto Rico,SI,GA,24,White,30~34,White,1~3,NO,117,143,26,1,2,Single,M,35,6.38
+14202,Hospital,Otro,Puerto Rico,NO,12,20,Black,20~24,White,1~3,NO,120,145,25,0,1,Single,F,37,6.19
+2112,Hospital,Otro,Puerto Rico,NO,Algunos creditos,36,White,30~34,White,1~3,NO,152,155,3,1,2,Single,F,37,7.81
+5183,Hospital,Otro,Puerto Rico,SI,GA,24,White,25~29,White,1~3,NO,134,159,25,0,1,Single,M,39,6.56
+37702,Hospital,Otro,Puerto Rico,NO,12,36,White,40~44,White,1~3,NO,202,267,65,1,2,Single,F,37,8.06
+30775,Hospital,Otro,Puerto Rico,NO,9~11,26,White,Desconocida,Desconocida,1~3,NO,150,176,26,0,1,Single,M,38,6.19
+13226,Hospital,Otro,Puerto Rico,SI,Algunos creditos,28,White,25~29,White,1~3,NO,188,219,31,1,2,Single,M,39,9
+27914,Hospital,Otro,Puerto Rico,NO,Algunos creditos,23,White,20~24,White,1~3,NO,142,151,9,0,1,Single,F,38,5.63
+25203,Hospital,San Juan,Puerto Rico,SI,BA,26,White,25~29,White,1~3,NO,115,140,25,0,1,Single,F,39,7.44
+10272,Hospital,Otro,Puerto Rico,NO,9~11,16,White,25~29,White,4~6,NO,95,127,32,1,2,Single,F,36,5.44
+14390,Hospital,Caguas,Puerto Rico,SI,BA,36,White,35~39,White,1~3,NO,161,194,33,0,1,Single,M,38,9.06
+8736,Hospital,Otro,Puerto Rico,SI,12,22,Black,30~34,White,1~3,NO,160,200,40,1,2,Single,M,39,7.75
+37688,Hospital,Otro,Puerto Rico,NO,9~11,19,White,20~24,White,1~3,NO,125,142,17,1,2,Single,F,37,7.5
+1928,Hospital,Otro,Puerto Rico,SI,9~11,21,White,30~34,White,1~3,NO,129,171,42,0,1,Single,M,38,6.88
+17123,Hospital,Otro,Puerto Rico,NO,12,23,Black,15~19,White,4~6,NO,220,250,30,0,1,Single,M,39,6.94
+36238,Hospital,Otro,Puerto Rico,NO,12,15,White,20~24,White,4~6,NO,115,133,18,0,1,Single,M,37,6.69
+13142,Hospital,Otro,Puerto Rico,NO,GA,32,White,30~34,White,1~3,NO,128,172,44,1,2,Single,M,38,7.63
+15301,Hospital,Otro,Puerto Rico,NO,12,30,White,25~29,White,1~3,NO,150,205,55,1,2,Single,F,35,5.75
+2626,Hospital,Carolina,Puerto Rico,SI,GA,22,White,25~29,Black,4~6,NO,140,179,39,0,1,Twin,M,36,5.06
+39213,Hospital,San Juan,Puerto Rico,NO,~8VO,18,White,25~29,White,7~,NO,135,140,5,1,2,Single,F,31,4
+10316,Hospital,Otro,Puerto Rico,NO,GA,26,Black,20~24,White,1~3,NO,125,157,32,1,2,Single,M,39,6.31
+26345,Hospital,Otro,Puerto Rico,SI,BA,32,White,30~34,White,1~3,NO,145,172,27,0,1,Single,F,39,8.31
+14733,Hospital,Otro,Puerto Rico,SI,BA,33,White,30~34,White,1~3,NO,196,221,25,1,2,Single,F,40,7.37
+26079,Hospital,Otro,Puerto Rico,NO,12,22,White,20~24,White,1~3,NO,119,146,27,0,1,Single,F,41,6.25
+18253,Hospital,Otro,Puerto Rico,NO,12,29,White,25~29,White,4~6,NO,140,165,25,1,2,Single,F,37,3.81
+37841,Hospital,Otro,Puerto Rico,SI,12,33,White,35~39,White,1~3,NO,124,154,30,0,1,Single,F,37,4.69
+37972,Hospital,Otro,Puerto Rico,NO,12,25,White,25~29,White,1~3,NO,120,164,44,0,1,Single,F,35,6.44
+12918,Hospital,Otro,Puerto Rico,NO,12,23,White,20~24,White,1~3,NO,144,184,40,0,1,Single,F,40,7.5
+739,Hospital,Otro,Puerto Rico,NO,9~11,20,White,25~29,White,1~3,NO,110,117,7,1,2,Single,F,36,5
+19571,Hospital,Otro,Puerto Rico,SI,12,26,White,35~39,White,1~3,NO,142,150,8,0,1,Single,M,38,6.44
+23422,Hospital,Otro,Puerto Rico,SI,9~11,19,White,25~29,White,1~3,NO,106,115,9,0,1,Single,F,35,5.25
+34218,Hospital,Otro,Puerto Rico,SI,Algunos creditos,27,White,25~29,White,1~3,NO,149,168,19,1,2,Single,M,37,5.56
+4579,Hospital,Otro,Puerto Rico,NO,~8VO,14,White,20~24,White,4~6,NO,130,151,21,0,1,Single,M,40,8.19
+5782,Hospital,Otro,Puerto Rico,NO,12,24,White,30~34,White,1~3,NO,194,226,32,1,2,Single,F,40,9.69
+17288,Hospital,San Juan,Puerto Rico,SI,BA,36,White,35~39,White,1~3,NO,135,161,26,0,1,Single,M,33,6.5
+28238,Hospital,San Juan,Puerto Rico,SI,GA,36,White,40~44,White,1~3,NO,138,182,44,1,2,Single,F,39,6.75
+36194,Hospital,Otro,Puerto Rico,NO,12,27,White,25~29,White,1~3,NO,137,163,26,1,2,Single,M,38,6.88
+38474,Hospital,San Juan,Puerto Rico,SI,BA,39,White,35~39,White,1~3,NO,160,172,12,1,2,Single,M,38,6.75
+37590,Hospital,Carolina,Puerto Rico,NO,Algunos creditos,34,White,40~44,White,1~3,NO,185,194,9,1,2,Single,M,39,7.31
+22983,Hospital,Otro,Puerto Rico,NO,12,20,White,20~24,White,1~3,NO,110,155,45,1,2,Single,F,38,5.19
+8174,Hospital,Otro,Puerto Rico,SI,BA,30,White,35~39,White,1~3,NO,125,143,18,1,2,Single,M,38,6
+34873,Hospital,Caguas,Puerto Rico,SI,BA,32,White,30~34,White,1~3,NO,160,180,20,1,2,Single,M,37,6.62
+40127,Hospital,Otro,Puerto Rico,NO,12,25,White,30~34,White,7~,NO,126,131,5,0,1,Single,F,36,5.75
+28371,Hospital,Otro,Puerto Rico,NO,GA,29,White,25~29,White,4~6,NO,142,172,30,1,2,Single,M,38,6.94
+29901,Hospital,Otro,Puerto Rico,SI,BA,30,White,35~39,White,1~3,NO,124,139,15,0,1,Single,F,38,5.75
+6056,Hospital,Otro,Puerto Rico,SI,BA,30,White,30~34,Black,1~3,NO,130,165,35,0,1,Single,M,37,7.5
+856,Hospital,Bayamon,Puerto Rico,SI,GA,30,White,25~29,White,1~3,NO,125,161,36,0,1,Single,M,38,7.06
+37970,Hospital,Otro,Puerto Rico,NO,GA,20,White,20~24,White,1~3,NO,180,216,36,1,2,Single,F,36,6.5
+7259,Hospital,San Juan,Otro,NO,BA,26,Black,Desconocida,Desconocida,1~3,NO,150,162,12,0,1,Single,F,39,7.37
+6054,Hospital,San Juan,Puerto Rico,NO,GA,27,White,20~24,White,1~3,NO,238,236,0,0,1,Single,M,42,6.88
+6534,Hospital,Carolina,Puerto Rico,NO,12,25,White,30~34,White,4~6,NO,121,129,8,0,1,Single,F,36,5.56
+23908,Hospital,Otro,Puerto Rico,SI,12,18,White,20~24,White,1~3,NO,110,149,39,0,1,Single,F,35,5.75
+1169,Hospital,Otro,Puerto Rico,SI,BA,36,White,35~39,White,1~3,NO,140,177,37,0,1,Single,M,39,6.19
+32385,Hospital,Carolina,Puerto Rico,NO,12,23,Black,40~44,Black,1~3,NO,330,320,0,0,1,Single,F,38,7.56
+18125,Hospital,Otro,No hispano,SI,12,28,White,30~34,White,1~3,NO,132,172,40,0,1,Twin,F,33,4.44
+35992,Hospital,Otro,Puerto Rico,NO,12,17,White,30~34,White,1~3,NO,180,230,50,1,2,Single,M,40,6.06
+8637,Hospital,Carolina,Puerto Rico,NO,12,24,Black,25~29,Black,4~6,NO,130,146,16,0,1,Single,M,38,7.25
+40969,Hospital,San Juan,Puerto Rico,SI,12,35,White,35~39,White,1~3,NO,163,180,17,0,1,Single,F,38,6.69
+37416,Hospital,Ponce,Puerto Rico,SI,9~11,19,White,20~24,White,4~6,NO,188,214,26,1,2,Single,F,38,8
+28696,Hospital,Otro,Puerto Rico,NO,GA,24,White,25~29,White,1~3,NO,98,118,20,1,2,Single,M,39,5.75
+22307,Unknown,Otro,Desconocido,NO,Desconocido,22,White,20~24,Desconocida,Desconocido,NO,NA,NA,NA,1,2,Single,M,NA,6.62
+40111,Hospital,Otro,Puerto Rico,NO,9~11,18,White,20~24,White,1~3,NO,97,125,28,0,1,Single,F,38,7.5
+29561,Hospital,Bayamon,Puerto Rico,SI,12,22,White,20~24,White,1~3,NO,154,176,22,0,1,Single,M,38,8.44
+1870,Hospital,San Juan,Puerto Rico,SI,GA,31,White,30~34,Black,1~3,NO,151,178,27,1,2,Single,F,36,5.69
+21945,Hospital,Carolina,Puerto Rico,SI,12,20,White,25~29,Black,4~6,NO,215,225,10,1,2,Single,M,41,6
+21632,Hospital,Otro,Puerto Rico,SI,GA,23,White,20~24,White,1~3,NO,165,216,51,1,2,Single,F,39,7.13
+29364,Hospital,Otro,Puerto Rico,SI,BA,22,White,40~44,White,1~3,NO,170,214,44,0,1,Single,M,38,8.44
+1058,Hospital,Otro,Puerto Rico,NO,12,20,White,20~24,White,1~3,NO,114,141,27,1,2,Single,M,37,6.25
+12195,Hospital,Otro,Otro,NO,12,27,Black,25~29,White,4~6,NO,160,210,50,0,1,Single,F,38,5.75
+17615,Hospital,Otro,Puerto Rico,NO,12,31,White,Desconocida,Desconocida,1~3,NO,150,165,15,0,1,Single,M,40,7.87
+35076,Hospital,Otro,Puerto Rico,SI,MA,42,White,45~49,White,1~3,NO,146,156,10,0,1,Single,F,40,6.62
+5470,Hospital,Caguas,Puerto Rico,NO,12,22,White,20~24,White,1~3,NO,176,209,33,0,1,Single,F,36,8.69
+5176,Hospital,Caguas,Puerto Rico,NO,Algunos creditos,25,White,25~29,White,1~3,NO,108,142,34,0,1,Single,M,36,6.25
+5725,Hospital,Otro,Am. Norte o sur,SI,MA,35,White,35~39,Black,1~3,NO,167,208,41,1,2,Single,M,39,8.44
+19479,Hospital,Otro,Puerto Rico,SI,GA,31,White,30~34,White,1~3,NO,180,180,0,0,1,Single,F,39,6.56
+18412,Hospital,Otro,Puerto Rico,NO,GA,35,White,30~34,White,1~3,NO,120,143,23,1,2,Single,F,38,6.5
+8848,Hospital,Otro,Puerto Rico,SI,BA,33,White,30~34,White,1~3,NO,125,150,25,1,2,Single,M,37,6.25
+10894,Hospital,Bayamon,Puerto Rico,NO,12,21,White,25~29,White,4~6,NO,140,185,45,1,2,Single,M,38,5.94
+39073,Hospital,Otro,Puerto Rico,NO,12,19,Black,15~19,Black,1~3,NO,180,206,26,0,1,Single,M,34,7.69
+33299,Hospital,Otro,Puerto Rico,NO,12,27,White,Desconocida,Desconocida,4~6,NO,261,240,NA,1,2,Single,M,38,7
+12925,Hospital,Carolina,Puerto Rico,NO,9~11,23,White,Desconocida,Desconocida,1~3,NO,125,173,48,0,1,Twin,M,34,5.37
+3625,Hospital,Otro,Puerto Rico,NO,12,19,White,15~19,Black,4~6,NO,101,116,15,0,1,Single,M,40,8.31
+29647,Hospital,Bayamon,Puerto Rico,SI,BA,31,White,30~34,White,1~3,NO,208,225,17,1,2,Single,F,40,8.25
+10699,Hospital,Otro,Puerto Rico,NO,Algunos creditos,23,Black,40~44,White,4~6,NO,147,174,27,1,2,Single,M,41,7.56
+4650,Hospital,Carolina,Puerto Rico,SI,BA,22,White,20~24,White,1~3,NO,127,150,23,1,2,Single,M,37,6.44
+6950,Hospital,San Juan,Puerto Rico,NO,GA,28,Black,30~34,Black,1~3,NO,140,152,12,1,2,Single,F,38,5.88
+18885,Hospital,Ponce,Puerto Rico,NO,12,22,White,25~29,White,1~3,NO,132,151,19,1,2,Single,M,37,5.63
+32559,Hospital,Otro,Puerto Rico,NO,12,23,White,30~34,White,1~3,NO,165,186,21,0,1,Single,F,40,6.44
+35488,Hospital,Otro,Puerto Rico,NO,BA,26,White,20~24,White,1~3,NO,200,210,10,0,1,Single,M,38,7.06
+35240,Hospital,Otro,Puerto Rico,NO,BA,35,White,30~34,White,1~3,NO,199,224,25,0,1,Single,M,38,7.94
+19478,Hospital,San Juan,Puerto Rico,SI,DOCTORADO,33,White,30~34,White,1~3,NO,167,193,26,1,2,Single,F,38,6.69
+40636,Hospital,Otro,Puerto Rico,SI,12,18,White,20~24,White,4~6,NO,138,158,20,0,1,Single,M,38,9.25
+1857,Hospital,Bayamon,Puerto Rico,NO,12,26,White,30~34,Black,4~6,NO,184,186,2,1,2,Single,F,39,7.19
+37310,Hospital,Carolina,Puerto Rico,SI,12,22,White,30~34,White,1~3,NO,150,170,20,1,2,Single,F,38,7.31
+6621,Hospital,San Juan,Puerto Rico,NO,~8VO,15,Black,15~19,Black,4~6,NO,120,150,30,0,1,Single,M,38,5.5
+40427,Hospital,Otro,Puerto Rico,SI,GA,26,Black,25~29,White,1~3,NO,191,210,19,0,1,Single,M,37,6.44
+25939,Hospital,Otro,Puerto Rico,NO,BA,27,White,20~24,Black,1~3,NO,121,133,12,1,2,Single,M,38,5.5
+26324,Hospital,Otro,Puerto Rico,SI,12,25,White,30~34,White,1~3,NO,239,256,17,1,2,Single,M,39,7.37
+2195,Hospital,Otro,Puerto Rico,SI,Algunos creditos,22,White,25~29,White,1~3,NO,183,189,6,1,2,Single,F,39,6.88
+7590,Hospital,Otro,Puerto Rico,NO,GA,33,White,30~34,Black,1~3,NO,108,140,32,1,2,Single,F,38,7.81
+28951,Hospital,Otro,Puerto Rico,NO,9~11,18,White,15~19,White,1~3,NO,108,127,19,0,1,Single,M,38,6.06
+2501,Hospital,Ponce,Puerto Rico,SI,BA,29,White,30~34,White,1~3,NO,135,166,31,1,2,Single,M,40,8.62
+24910,Hospital,Otro,Puerto Rico,NO,Algunos creditos,28,White,20~24,White,1~3,NO,144,173,29,0,1,Single,F,38,7.81
+25374,Hospital,Otro,Puerto Rico,NO,12,28,White,25~29,White,4~6,NO,138,169,31,1,2,Single,M,40,5.25
+14372,Hospital,San Juan,Puerto Rico,NO,12,22,White,20~24,White,1~3,NO,110,140,30,0,1,Single,F,38,6.38
+28383,Hospital,Otro,Puerto Rico,NO,12,22,White,Desconocida,Desconocida,1~3,NO,117,145,28,1,2,Single,M,39,6.19
+31127,Hospital,Otro,Puerto Rico,NO,GA,25,White,30~34,White,1~3,NO,122,134,12,0,1,Single,F,40,6.31
+40199,Hospital,Otro,Puerto Rico,SI,BA,31,White,35~39,White,1~3,NO,112,154,42,1,2,Single,M,42,6.5
+28167,Hospital,Otro,Puerto Rico,NO,BA,25,White,20~24,White,1~3,NO,114,143,29,0,1,Single,M,39,8.5
+26856,Hospital,Otro,Puerto Rico,NO,GA,20,White,20~24,White,1~3,NO,104,127,23,1,2,Single,F,41,7.25
+16447,Hospital,Otro,Puerto Rico,NO,MA,33,White,35~39,White,1~3,NO,105,122,17,1,2,Single,F,36,5.06
+12076,Hospital,Otro,Puerto Rico,NO,12,21,Black,20~24,Black,7~,NO,200,210,10,0,1,Twin,F,38,3.25
+19413,Hospital,Bayamon,Puerto Rico,NO,BA,29,White,30~34,White,1~3,NO,200,220,20,0,1,Single,F,34,8.19
+5197,Hospital,San Juan,Puerto Rico,NO,BA,26,White,25~29,White,1~3,NO,125,153,28,1,2,Single,M,39,8.19
+6389,Hospital,San Juan,Puerto Rico,SI,12,18,Black,20~24,White,1~3,NO,176,195,19,0,1,Single,M,38,6.88
+18286,Hospital,Otro,Puerto Rico,SI,GA,30,White,25~29,White,1~3,NO,114,132,18,0,1,Single,M,36,5.81
+34239,Hospital,Otro,Puerto Rico,SI,MA,24,White,25~29,White,1~3,NO,170,167,0,1,2,Single,M,39,7.37
+16579,Hospital,Otro,Puerto Rico,NO,12,35,White,40~44,White,Desconocido,NO,307,358,51,0,1,Single,F,39,8.56
+19919,Hospital,Otro,Puerto Rico,NO,9~11,22,White,25~29,White,1~3,NO,100,145,45,0,1,Single,F,33,5.06
+37916,Hospital,Ponce,Puerto Rico,NO,12,27,White,20~24,White,1~3,NO,180,194,14,1,2,Single,F,38,7.25
+1641,Hospital,Otro,Puerto Rico,NO,12,23,White,30~34,White,1~3,NO,171,190,19,1,2,Single,F,38,5.63
+7739,Hospital,Otro,Puerto Rico,SI,GA,38,White,40~44,White,1~3,NO,163,205,42,0,1,Single,F,34,5.37
+12432,Hospital,Otro,Puerto Rico,NO,GA,22,White,35~39,White,1~3,NO,140,187,47,1,2,Single,M,37,5.69
+18419,Hospital,Otro,Puerto Rico,SI,~8VO,23,Black,25~29,White,1~3,NO,137,163,26,1,2,Single,M,39,7
+32708,Hospital,Caguas,Puerto Rico,SI,Algunos creditos,32,White,30~34,White,1~3,NO,250,243,0,1,2,Single,M,39,7.94
+16648,Hospital,Otro,Puerto Rico,SI,BA,31,White,40~44,White,4~6,NO,125,145,20,1,2,Single,M,38,8.56
+16143,Hospital,Caguas,Puerto Rico,SI,BA,34,White,30~34,White,4~6,NO,130,162,32,0,1,Single,M,39,6
+5113,Hospital,Otro,No hispano,NO,12,29,White,40~44,Black,1~3,NO,245,280,35,1,2,Single,M,34,5.75
+6943,Other,Otro,Puerto Rico,NO,GA,26,White,25~29,White,1~3,NO,124,137,13,1,2,Single,F,38,6.75
+24966,Hospital,San Juan,Otro,NO,12,28,White,25~29,Black,4~6,NO,142,156,14,0,1,Single,M,38,6.75
+23294,Hospital,Otro,Puerto Rico,NO,9~11,16,White,20~24,White,4~6,NO,150,186,36,1,2,Single,M,33,4.81
+37902,Hospital,Otro,Puerto Rico,NO,BA,21,White,20~24,White,1~3,NO,82,108,26,0,1,Single,M,28,4.87
+658,Hospital,San Juan,Puerto Rico,SI,BA,36,White,35~39,White,1~3,NO,168,212,44,0,1,Single,M,39,9.31
+32917,Hospital,Carolina,Puerto Rico,NO,9~11,17,White,15~19,White,7~,NO,98,111,13,1,2,Single,F,37,5.63
+20448,Hospital,Otro,Puerto Rico,NO,12,19,White,15~19,White,1~3,NO,138,162,24,0,1,Single,F,41,5.88
+3455,Hospital,Otro,Puerto Rico,NO,9~11,22,White,40~44,White,1~3,NO,178,208,30,0,1,Single,F,37,7.87
+31768,Hospital,Otro,Puerto Rico,NO,12,19,White,25~29,White,1~3,NO,132,146,14,1,2,Single,F,38,6.69
+24297,Hospital,San Juan,Puerto Rico,SI,BA,28,White,30~34,White,1~3,NO,135,157,22,0,1,Single,F,39,7.37
+19412,Hospital,Otro,Puerto Rico,NO,Algunos creditos,22,White,20~24,White,4~6,NO,160,197,37,0,1,Single,F,41,7.75
+2792,Hospital,Bayamon,Puerto Rico,NO,BA,25,White,30~34,White,1~3,NO,160,198,38,0,1,Single,F,38,6.5
+5162,Hospital,Otro,Puerto Rico,NO,BA,22,White,20~24,White,1~3,NO,167,206,39,0,1,Single,F,39,7.19
+28276,Hospital,Otro,Puerto Rico,NO,BA,31,White,25~29,White,1~3,NO,148,196,48,0,1,Single,F,34,7.5
+6328,Hospital,San Juan,Puerto Rico,NO,12,21,White,25~29,White,4~6,NO,122,175,53,1,2,Single,F,37,7.75
+5377,Hospital,Otro,Puerto Rico,SI,GA,25,White,25~29,White,1~3,NO,118,136,18,1,2,Single,F,37,7.06
+21147,Hospital,Otro,Puerto Rico,NO,12,25,White,25~29,White,1~3,NO,128,159,31,0,1,Single,F,38,7.63
+8330,Hospital,Otro,Puerto Rico,NO,12,29,White,35~39,White,1~3,NO,127,146,19,0,1,Single,M,38,6.75
+3056,Hospital,Caguas,Puerto Rico,NO,Algunos creditos,24,White,35~39,White,1~3,NO,95,122,27,0,1,Single,M,37,5.63
+27116,Hospital,Caguas,Puerto Rico,SI,12,25,White,20~24,White,1~3,NO,120,160,40,0,1,Single,F,35,4.94
+31934,Hospital,Otro,Puerto Rico,NO,12,32,White,Desconocida,Desconocida,1~3,NO,146,170,24,1,2,Single,F,37,8.13
+20533,Hospital,Otro,Puerto Rico,NO,12,20,White,30~34,White,1~3,NO,135,160,25,1,2,Single,M,33,7.13
+26178,Hospital,Otro,Puerto Rico,NO,Algunos creditos,27,White,30~34,White,4~6,NO,75,115,40,0,1,Single,F,36,5.19
+14535,Hospital,Otro,Puerto Rico,NO,9~11,16,White,20~24,White,4~6,NO,94,108,14,1,2,Single,M,39,6.94
+40687,Hospital,Otro,Puerto Rico,SI,~8VO,30,White,40~44,White,1~3,NO,170,199,29,0,1,Single,M,33,5.37
+574,Hospital,Ponce,Puerto Rico,NO,12,32,White,30~34,White,4~6,NO,153,179,26,0,1,Single,F,38,7.81
+19717,Hospital,San Juan,Puerto Rico,NO,12,18,White,15~19,White,1~3,NO,102,139,37,1,2,Single,F,39,5.44
+1814,Hospital,Otro,Puerto Rico,SI,GA,24,White,30~34,White,4~6,NO,182,200,18,1,2,Single,M,31,3.5
+23860,Hospital,Otro,Puerto Rico,SI,BA,30,White,30~34,White,1~3,NO,170,200,30,1,2,Single,M,41,8.69
+32335,Hospital,Bayamon,Puerto Rico,NO,9~11,31,White,40~44,White,Desconocido,NO,NA,NA,NA,1,2,Single,M,37,5.19
+28183,Hospital,San Juan,Puerto Rico,NO,MA,42,White,40~44,White,1~3,NO,125,144,19,0,1,Single,M,40,7.87
+30425,Hospital,Otro,Puerto Rico,NO,12,22,Black,20~24,Black,1~3,NO,128,151,23,1,2,Single,F,37,5.56
+24902,Hospital,Otro,Puerto Rico,NO,BA,26,White,25~29,White,4~6,NO,111,139,28,0,1,Single,F,37,6.31
+5463,Hospital,Carolina,Puerto Rico,NO,12,28,White,30~34,White,1~3,NO,147,180,33,1,2,Single,M,39,8.56
+4352,Hospital,Otro,Puerto Rico,SI,~8VO,16,White,25~29,White,1~3,NO,136,164,28,1,2,Single,F,36,6.25
+35530,Hospital,Otro,Puerto Rico,NO,BA,24,White,25~29,White,1~3,NO,179,214,35,1,2,Single,F,37,7.13
+18280,Hospital,Otro,Puerto Rico,SI,BA,31,White,35~39,White,1~3,NO,209,247,38,0,1,Single,F,25,NA
+19938,Hospital,Otro,Puerto Rico,SI,BA,38,White,45~49,White,1~3,NO,166,200,34,0,1,Single,M,38,8.06
+40790,Hospital,Otro,Puerto Rico,NO,12,21,White,20~24,White,1~3,NO,144,179,35,1,2,Single,M,38,8.44
+36473,Hospital,Bayamon,Puerto Rico,SI,GA,31,White,35~39,White,1~3,NO,132,177,45,0,1,Single,F,39,4.75
+11657,Hospital,Otro,Am. Norte o sur,SI,GA,31,White,30~34,White,4~6,NO,128,160,32,1,2,Single,M,39,8.38
+14869,Hospital,Carolina,Puerto Rico,SI,12,24,White,20~24,White,1~3,NO,105,118,13,1,2,Single,F,36,5.88
+17782,Hospital,Otro,Puerto Rico,NO,9~11,28,White,25~29,White,1~3,NO,85,123,38,1,2,Single,M,40,7.44
+38119,Hospital,Otro,Puerto Rico,NO,12,23,Black,20~24,Black,1~3,NO,200,208,8,1,2,Single,F,34,6.81
+37657,Hospital,Caguas,Puerto Rico,SI,BA,34,White,35~39,White,1~3,NO,130,158,28,1,2,Single,F,39,8.38
+39850,Hospital,Otro,Puerto Rico,SI,12,36,White,35~39,White,1~3,NO,90,120,30,0,1,Single,F,37,7.44
+28622,Hospital,Otro,Puerto Rico,NO,~8VO,19,White,25~29,White,1~3,NO,108,128,20,1,2,Single,M,38,6.44
+36967,Hospital,Otro,Puerto Rico,SI,BA,23,White,25~29,White,1~3,NO,134,182,48,0,1,Single,F,40,7.81
+19012,Hospital,Otro,Puerto Rico,NO,9~11,23,White,25~29,White,1~3,NO,137,152,15,1,2,Single,M,41,6.38
+9211,Hospital,Ponce,Puerto Rico,SI,12,29,White,30~34,White,1~3,NO,198,215,17,0,1,Single,F,38,8.56
+20687,Hospital,Otro,Puerto Rico,NO,9~11,19,White,20~24,White,4~6,NO,117,141,24,1,2,Single,M,38,6.5
+6271,Hospital,Otro,Puerto Rico,SI,12,21,White,20~24,White,1~3,NO,90,123,33,1,2,Single,M,38,5.13
+11035,Hospital,Otro,Puerto Rico,NO,12,23,White,30~34,White,1~3,NO,100,126,26,1,2,Single,F,34,5.81
+6185,Hospital,Otro,Puerto Rico,SI,BA,29,White,25~29,White,1~3,NO,222,249,27,1,2,Single,F,39,6.69
+30384,Hospital,Otro,Puerto Rico,NO,12,15,White,15~19,White,4~6,NO,92,109,17,0,1,Single,F,42,6.19
+12892,Hospital,Otro,Puerto Rico,NO,12,30,White,40~44,White,1~3,NO,125,173,48,0,1,Single,M,37,8.25
+24806,Hospital,Otro,Puerto Rico,SI,12,20,White,20~24,White,4~6,NO,123,226,98,1,2,Single,M,39,8.19
+24726,Hospital,San Juan,Puerto Rico,NO,9~11,23,Black,25~29,White,1~3,NO,140,170,30,0,1,Single,F,37,5.5
+19842,Hospital,Otro,Puerto Rico,NO,Algunos creditos,19,Black,20~24,Black,1~3,NO,108,130,22,1,2,Single,F,36,6.31
+40684,Hospital,Otro,Puerto Rico,NO,12,22,White,25~29,White,4~6,NO,140,172,32,1,2,Single,F,34,7.94
+32095,Hospital,Otro,Puerto Rico,NO,9~11,19,White,20~24,White,4~6,NO,94,114,20,1,2,Single,F,39,6.12
+32209,Hospital,Otro,Puerto Rico,NO,Algunos creditos,23,White,20~24,White,4~6,NO,239,273,34,0,1,Single,M,38,7.63
+9621,Hospital,Otro,Puerto Rico,NO,Algunos creditos,27,Black,20~24,White,1~3,NO,165,188,23,0,1,Single,F,38,8.38
+28300,Hospital,Otro,Puerto Rico,SI,MA,30,White,30~34,White,1~3,NO,134,168,34,1,2,Single,M,38,7.69
+14388,Hospital,Otro,Puerto Rico,NO,12,23,Black,20~24,Black,1~3,NO,190,203,13,0,1,Single,F,39,8.75
+23707,Hospital,Otro,No hispano,NO,9~11,17,White,20~24,White,4~6,NO,119,155,36,1,2,Single,M,39,8.13
+1375,Hospital,Otro,Puerto Rico,NO,9~11,16,White,15~19,White,4~6,NO,137,160,23,1,2,Single,M,40,7.81
+15935,Hospital,Bayamon,No hispano,NO,BA,30,White,25~29,Black,4~6,NO,104,142,38,0,1,Single,F,38,5.37
+25358,Hospital,San Juan,Puerto Rico,NO,GA,35,White,45~49,White,1~3,NO,200,246,46,1,2,Single,M,38,6.56
+4252,Hospital,Otro,Puerto Rico,NO,BA,28,White,25~29,White,1~3,NO,146,176,30,0,1,Single,F,40,6.75
+10726,Hospital,Otro,Puerto Rico,SI,BA,28,White,30~34,White,1~3,NO,168,196,28,1,2,Single,M,38,7.31
+11090,Hospital,San Juan,Puerto Rico,NO,9~11,19,White,20~24,Black,1~3,NO,103,131,28,0,1,Single,M,38,6.75
+30037,Hospital,Otro,Puerto Rico,SI,BA,30,White,30~34,White,1~3,NO,162,176,14,1,2,Single,F,36,6.31
+8473,Hospital,San Juan,Puerto Rico,NO,12,27,White,35~39,White,4~6,NO,132,164,32,1,2,Single,M,39,7.31
+33267,Hospital,Bayamon,Puerto Rico,NO,GA,35,White,35~39,White,1~3,NO,133,152,19,1,2,Single,F,38,6.75
+33559,Hospital,Otro,Puerto Rico,SI,12,23,White,20~24,White,1~3,NO,126,138,12,0,1,Single,M,33,7.94
+20720,Hospital,Otro,Puerto Rico,NO,12,26,White,25~29,White,1~3,NO,113,147,34,0,1,Single,M,37,7.87
+39365,Hospital,Otro,Puerto Rico,SI,GA,35,White,35~39,White,1~3,NO,132,170,38,0,1,Single,M,38,7.94
+33739,Hospital,Otro,Puerto Rico,NO,9~11,17,White,15~19,White,1~3,NO,134,185,51,1,2,Single,M,39,9.44
+21110,Hospital,Otro,Puerto Rico,NO,12,25,White,25~29,White,4~6,NO,158,192,34,0,1,Single,M,38,8
+39666,Hospital,Ponce,Puerto Rico,SI,MA,29,White,25~29,Black,1~3,NO,133,145,12,1,2,Single,F,38,6.56
+32802,Hospital,Caguas,No hispano,NO,12,21,White,20~24,White,4~6,NO,166,183,17,0,1,Single,M,38,5.94
+17527,Hospital,Otro,Puerto Rico,SI,Algunos creditos,24,White,20~24,Black,7~,NO,100,108,8,1,2,Single,F,36,7.13
+20253,Hospital,Ponce,Puerto Rico,SI,12,25,White,25~29,White,1~3,NO,151,179,28,1,2,Single,M,37,7.37
+31314,Hospital,Otro,Puerto Rico,NO,GA,29,White,20~24,White,4~6,NO,138,161,23,1,2,Single,M,38,6.44
+3097,Hospital,San Juan,No hispano,NO,GA,31,Black,30~34,Black,1~3,NO,96,117,21,0,1,Single,M,40,7.06
+9489,Hospital,Otro,Puerto Rico,SI,BA,26,White,25~29,White,1~3,NO,180,211,31,0,1,Single,F,32,4.31
+24194,Hospital,Caguas,Puerto Rico,NO,GA,22,White,Desconocida,Desconocida,1~3,NO,104,124,20,1,2,Single,F,38,6.31
+31153,Hospital,Otro,Puerto Rico,NO,12,21,White,35~39,Black,1~3,NO,130,128,0,1,2,Single,M,37,7.13
+35539,Hospital,Otro,Puerto Rico,NO,12,20,Black,20~24,Black,1~3,NO,140,178,38,1,2,Single,F,40,5.13
+40093,Hospital,Bayamon,Puerto Rico,NO,Algunos creditos,19,Black,15~19,White,4~6,NO,94,122,28,0,1,Single,F,39,8.31
+40766,Hospital,Otro,Puerto Rico,SI,BA,28,White,25~29,White,1~3,NO,127,162,35,1,2,Single,F,39,8.13
+17306,Hospital,Otro,No hispano,NO,9~11,29,White,45~49,White,1~3,NO,95,118,23,1,2,Single,F,37,5
+11962,Hospital,Caguas,No hispano,SI,BA,31,White,30~34,White,1~3,NO,125,188,63,1,2,Single,F,39,7.94
+4996,Hospital,Otro,Puerto Rico,NO,9~11,16,White,15~19,White,1~3,NO,113,142,29,0,1,Single,M,37,6.81
+36470,Hospital,San Juan,Puerto Rico,SI,BA,22,White,30~34,White,1~3,NO,110,149,39,1,2,Single,M,38,8.38
+4320,Hospital,Otro,Puerto Rico,SI,GA,28,White,30~34,White,1~3,NO,155,192,37,1,2,Single,F,44,8.25
+19645,Hospital,San Juan,Puerto Rico,NO,12,21,White,25~29,White,1~3,NO,128,168,40,1,2,Single,M,36,5.63
+5130,Hospital,Bayamon,Puerto Rico,SI,12,26,White,25~29,White,1~3,NO,140,177,37,1,2,Single,M,39,8.88
+15538,Hospital,Bayamon,Puerto Rico,SI,9~11,27,White,25~29,White,4~6,NO,200,241,41,0,1,Single,M,38,6.44
+26071,Hospital,Otro,Puerto Rico,SI,12,22,White,25~29,White,1~3,NO,202,218,16,0,1,Twin,M,35,4.75
+17727,Hospital,Otro,Puerto Rico,NO,9~11,18,Black,25~29,White,1~3,NO,130,183,53,1,2,Single,F,40,5.94
+19918,Hospital,San Juan,Otro,NO,12,20,Black,35~39,White,4~6,NO,123,157,34,1,2,Single,F,40,6.94
+35432,Hospital,Otro,Puerto Rico,SI,9~11,18,White,35~39,White,4~6,NO,145,181,36,1,2,Single,M,39,6.56
+15420,Hospital,Otro,Puerto Rico,NO,12,27,White,20~24,White,1~3,NO,135,170,35,1,2,Single,M,39,7
+30811,Hospital,Otro,Puerto Rico,SI,GA,31,White,25~29,White,4~6,NO,184,197,13,0,1,Single,M,36,7.69
+21406,Hospital,San Juan,Puerto Rico,NO,12,27,White,Desconocida,Desconocida,4~6,NO,130,171,41,1,2,Single,F,37,8.88
+2226,Hospital,Otro,Puerto Rico,NO,12,18,White,25~29,White,1~3,NO,114,151,37,1,2,Single,M,39,6.44
+7265,Hospital,Otro,Puerto Rico,NO,9~11,17,White,30~34,White,4~6,NO,240,267,27,0,1,Single,M,40,7.5
+5028,Hospital,Otro,Puerto Rico,NO,12,23,White,Desconocida,Desconocida,4~6,NO,154,160,6,0,1,Single,M,35,5.69
+5805,Hospital,Otro,Puerto Rico,SI,BA,34,White,45~49,White,1~3,NO,151,195,44,0,1,Single,M,40,8.13
+29724,Hospital,Bayamon,Puerto Rico,NO,12,23,White,25~29,White,1~3,NO,119,149,30,1,2,Single,M,39,6.94
+3857,Hospital,Caguas,Puerto Rico,NO,BA,22,White,20~24,White,1~3,NO,130,159,29,1,2,Single,M,37,6.5
+4269,Hospital,Otro,Puerto Rico,SI,GA,30,White,30~34,White,1~3,NO,150,191,41,1,2,Single,M,38,7.81
+23109,Hospital,Bayamon,Puerto Rico,SI,GA,36,White,35~39,White,1~3,NO,142,170,28,0,1,Single,M,39,7.06
+37014,Hospital,Otro,Puerto Rico,SI,9~11,20,White,30~34,Black,4~6,NO,130,152,22,1,2,Single,M,38,6.44
+12919,Hospital,Otro,Puerto Rico,NO,12,22,White,20~24,White,1~3,NO,130,130,0,1,2,Single,F,36,5.88
+39781,Hospital,San Juan,Puerto Rico,NO,9~11,16,White,30~34,White,1~3,NO,130,134,4,1,2,Single,F,39,7.31
+14874,Hospital,Otro,Puerto Rico,SI,12,21,White,20~24,White,4~6,NO,155,175,20,0,1,Single,M,32,5.13
+18899,Hospital,San Juan,Puerto Rico,SI,BA,36,White,45~49,White,1~3,NO,129,156,27,1,2,Single,F,39,5.94
+12887,Hospital,San Juan,Puerto Rico,NO,GA,23,White,25~29,White,1~3,NO,109,138,29,1,2,Single,M,35,5.5
+10712,Hospital,Carolina,Puerto Rico,NO,BA,28,White,30~34,Black,1~3,NO,140,175,35,1,2,Single,M,38,7.25
+31515,Hospital,Otro,Puerto Rico,NO,BA,28,White,25~29,White,1~3,NO,118,137,19,0,1,Single,M,38,7.06
+27155,Hospital,Ponce,Puerto Rico,NO,9~11,21,White,20~24,White,7~,NO,165,186,21,0,1,Single,M,39,7.31
+27501,Hospital,Otro,Puerto Rico,SI,12,27,Black,25~29,Black,1~3,NO,272,300,28,0,1,Single,F,39,5.37
+2596,Hospital,Caguas,Puerto Rico,SI,12,30,White,25~29,White,1~3,NO,120,148,28,1,2,Single,M,38,6
+33960,Hospital,Otro,Puerto Rico,SI,BA,24,White,40~44,White,4~6,NO,130,172,42,0,1,Single,F,39,6.75
+22596,Hospital,Carolina,Puerto Rico,SI,BA,34,Black,35~39,Black,1~3,NO,198,222,24,0,1,Single,M,43,7.31
+17623,Hospital,Otro,Puerto Rico,NO,9~11,19,White,20~24,White,1~3,NO,138,156,18,0,1,Single,F,38,6.19
+4233,Hospital,Otro,Puerto Rico,NO,12,20,White,15~19,White,1~3,NO,107,138,31,1,2,Single,M,37,7.13
+14399,Hospital,Bayamon,Puerto Rico,NO,12,22,White,20~24,White,1~3,NO,144,184,40,0,1,Single,M,38,7.19
+16421,Hospital,Otro,Puerto Rico,NO,GA,19,White,20~24,White,1~3,NO,144,175,31,1,2,Single,F,39,7.5
+30231,Hospital,Otro,Puerto Rico,NO,GA,23,White,25~29,White,1~3,NO,153,196,43,0,1,Single,M,40,8.62
+6750,Hospital,Otro,Puerto Rico,SI,GA,23,White,20~24,White,1~3,NO,124,145,21,1,2,Single,M,39,8.75
+7147,Hospital,Otro,Puerto Rico,NO,9~11,16,White,15~19,White,1~3,NO,122,140,18,1,2,Single,M,34,5.5
+9905,Hospital,Otro,Puerto Rico,SI,12,32,White,35~39,White,1~3,NO,174,190,16,1,2,Single,F,38,6.38
+7004,Hospital,Otro,Puerto Rico,NO,12,21,White,25~29,White,1~3,NO,111,134,23,1,2,Single,F,36,6.06
+1659,Hospital,Otro,Puerto Rico,NO,12,23,White,20~24,White,1~3,NO,119,128,9,0,1,Single,F,38,6.69
+23595,Hospital,Otro,Puerto Rico,NO,~8VO,42,White,30~34,White,1~3,NO,142,168,26,0,1,Single,F,38,5.13
+22204,Hospital,Otro,Puerto Rico,NO,9~11,16,White,15~19,White,1~3,NO,125,156,31,1,2,Single,M,39,7.75
+21325,Hospital,Otro,Puerto Rico,NO,12,31,White,35~39,White,1~3,NO,204,228,24,1,2,Single,M,37,7.06
+6289,Hospital,Otro,Puerto Rico,NO,9~11,17,White,15~19,White,1~3,NO,136,166,30,1,2,Single,F,39,6.25
+25836,Hospital,Mayaguez,Puerto Rico,NO,GA,25,White,25~29,White,1~3,NO,122,152,30,0,1,Single,F,38,6.62
+33041,Hospital,Ponce,Puerto Rico,NO,12,40,White,45~49,White,4~6,NO,186,215,29,1,2,Single,F,38,6.12
+37859,Hospital,Otro,Puerto Rico,NO,9~11,25,White,30~34,White,1~3,NO,130,149,19,0,1,Single,M,37,5.5
+7304,Hospital,Otro,Puerto Rico,NO,12,24,White,25~29,White,4~6,NO,190,208,18,0,1,Single,M,38,7.63
+33741,Hospital,San Juan,Puerto Rico,NO,BA,33,White,Desconocida,Desconocida,1~3,NO,130,150,20,1,2,Single,F,38,6
+36984,Hospital,San Juan,Otro,NO,~8VO,31,White,30~34,White,1~3,NO,170,214,44,0,1,Single,F,39,7.13
+9352,Hospital,Bayamon,Puerto Rico,SI,BA,31,White,30~34,White,1~3,NO,152,186,34,0,1,Single,F,39,10.06
+20202,Hospital,San Juan,Puerto Rico,NO,BA,27,White,25~29,White,1~3,NO,121,151,30,1,2,Single,F,39,6
+23529,Hospital,Otro,Puerto Rico,SI,BA,28,White,35~39,White,1~3,NO,150,168,18,1,2,Single,M,42,5.88
+9780,Hospital,Bayamon,Puerto Rico,NO,GA,23,White,25~29,White,1~3,NO,113,148,35,1,2,Single,M,40,6.75
+40764,Hospital,Caguas,No hispano,NO,12,22,White,35~39,White,1~3,NO,120,161,41,0,1,Single,F,37,6.75
+28147,Hospital,Otro,Puerto Rico,SI,GA,27,White,30~34,White,4~6,NO,138,152,14,1,2,Single,M,37,6.19
+33023,Hospital,Otro,Puerto Rico,SI,BA,31,White,25~29,White,1~3,NO,131,151,20,0,1,Single,F,36,5.19
+39485,Hospital,Otro,Puerto Rico,NO,BA,25,White,25~29,White,1~3,NO,158,170,12,1,2,Single,F,38,7.19
+9095,Hospital,Mayaguez,Puerto Rico,SI,BA,43,White,45~49,White,1~3,NO,132,151,19,1,2,Single,M,36,7
+1665,Hospital,Otro,Puerto Rico,NO,9~11,19,White,20~24,White,4~6,NO,150,170,20,1,2,Single,F,38,7.5
+13752,Hospital,Otro,Puerto Rico,SI,BA,24,White,40~44,White,1~3,NO,131,167,36,1,2,Single,M,40,7.37
+29261,Hospital,Otro,Puerto Rico,SI,BA,33,Black,30~34,White,1~3,NO,152,181,29,1,2,Single,F,38,7.56
+22174,Hospital,Otro,Puerto Rico,NO,GA,22,White,20~24,White,1~3,NO,120,150,30,0,1,Single,M,38,7.13
+30472,Hospital,Otro,Puerto Rico,NO,MA,27,White,30~34,White,1~3,NO,137,166,29,0,1,Single,M,37,7.13
+13731,Hospital,Otro,Puerto Rico,NO,9~11,23,White,25~29,White,7~,NO,100,128,28,1,2,Single,M,40,5.75
+10160,Hospital,Otro,Puerto Rico,SI,BA,32,Black,25~29,Black,1~3,NO,152,183,31,1,2,Single,F,38,8.13
+256,Hospital,Otro,Puerto Rico,NO,Algunos creditos,23,White,30~34,White,1~3,NO,253,259,6,0,1,Single,F,37,6.62
+5435,Hospital,Carolina,Puerto Rico,NO,12,16,Black,Desconocida,Desconocida,1~3,NO,145,186,41,0,1,Single,M,40,5.88
+34708,Hospital,Otro,Puerto Rico,NO,9~11,19,White,20~24,White,1~3,NO,120,155,35,0,1,Single,F,35,6.38
+27179,Hospital,Carolina,Puerto Rico,NO,GA,24,Black,25~29,White,1~3,NO,130,159,29,1,2,Single,M,37,6.44
+21503,Hospital,Otro,Puerto Rico,SI,MA,34,White,30~34,White,1~3,NO,142,168,26,1,2,Single,M,39,8.13
+20268,Hospital,San Juan,Puerto Rico,NO,9~11,23,White,35~39,White,1~3,NO,180,200,20,0,1,Single,F,39,7
+4372,Hospital,San Juan,Cubano,SI,MA,30,White,30~34,White,1~3,NO,170,202,32,1,2,Single,F,40,6.69
+19277,Hospital,Otro,Puerto Rico,NO,9~11,16,White,15~19,White,4~6,NO,148,187,39,1,2,Single,F,39,6.06
+36218,Hospital,Otro,Puerto Rico,NO,12,21,White,20~24,White,1~3,NO,160,262,98,1,2,Single,F,NA,5.25
+38897,Hospital,Ponce,Puerto Rico,NO,GA,36,White,30~34,White,1~3,NO,130,159,29,0,1,Single,F,38,6.88
+28233,Hospital,Otro,Puerto Rico,NO,BA,26,Black,25~29,White,1~3,NO,114,142,28,1,2,Single,F,40,7.44
+34690,Hospital,Otro,Puerto Rico,SI,12,22,White,25~29,White,4~6,NO,117,144,27,1,2,Single,M,38,6.69
+24158,Hospital,Bayamon,Otro,NO,12,25,White,30~34,Desconocida,1~3,NO,125,163,38,1,2,Single,F,39,9.12
+27298,Hospital,Caguas,Puerto Rico,NO,9~11,18,White,Desconocida,Desconocida,1~3,NO,209,224,15,0,1,Single,F,40,6.88
+1107,Hospital,Ponce,Puerto Rico,NO,12,29,White,25~29,White,1~3,NO,166,170,4,1,2,Single,F,39,5.56
+8689,Hospital,Otro,Puerto Rico,NO,12,20,White,25~29,White,1~3,NO,107,132,25,1,2,Single,F,37,6.5
+18624,Hospital,Otro,Puerto Rico,NO,12,27,White,30~34,White,1~3,NO,146,168,22,1,2,Single,F,33,7.5
+4082,Hospital,San Juan,Otro,NO,12,24,Black,40~44,White,4~6,NO,192,227,35,1,2,Single,F,41,7
+33047,Hospital,Otro,No hispano,SI,12,25,White,25~29,White,1~3,NO,182,200,18,1,2,Twin,F,34,5.19
+271,Hospital,Otro,Puerto Rico,NO,12,25,White,25~29,White,1~3,NO,139,145,6,0,1,Single,M,39,6.25
+36964,Hospital,Otro,Puerto Rico,NO,12,22,White,25~29,White,4~6,NO,137,155,18,0,1,Single,M,38,6.69
+16533,Hospital,Otro,Puerto Rico,NO,Algunos creditos,24,White,25~29,White,4~6,NO,148,174,26,1,2,Single,M,39,7.31
+1333,Hospital,Otro,Puerto Rico,NO,12,20,White,25~29,White,4~6,NO,135,161,26,0,1,Single,M,40,6.5
+17605,Hospital,Otro,Puerto Rico,SI,GA,43,White,50~54,White,1~3,NO,210,222,12,0,1,Single,F,37,7.75
+30191,Hospital,Carolina,Puerto Rico,NO,12,23,Black,30~34,Black,1~3,NO,236,262,26,0,1,Single,F,38,5.75
+27222,Hospital,Otro,Puerto Rico,SI,GA,31,White,35~39,White,1~3,NO,150,180,30,0,1,Single,M,38,7.94
+706,Hospital,Otro,Puerto Rico,NO,12,26,White,20~24,White,1~3,NO,160,NA,NA,0,1,Single,F,37,6.25
+9102,Hospital,Otro,Puerto Rico,SI,BA,32,White,30~34,White,1~3,NO,166,202,36,0,1,Single,M,41,7.31
+478,Hospital,Otro,Puerto Rico,SI,GA,28,White,30~34,White,1~3,NO,145,170,25,1,2,Single,M,39,6.5
+36463,Hospital,Otro,Puerto Rico,NO,12,23,White,20~24,White,7~,NO,166,167,1,0,1,Single,F,36,2
+2639,Hospital,Otro,Puerto Rico,SI,GA,29,White,25~29,White,4~6,NO,NA,NA,NA,1,2,Single,F,39,5.94
+11383,Hospital,Otro,Puerto Rico,NO,DOCTORADO,27,White,35~39,White,1~3,NO,143,167,24,1,2,Single,F,39,8.31
+18337,Hospital,Otro,Puerto Rico,NO,9~11,23,White,20~24,White,1~3,NO,247,206,NA,1,2,Single,M,38,6.69
+16853,Hospital,Otro,Puerto Rico,SI,BA,24,White,25~29,White,1~3,NO,170,229,59,0,1,Single,M,37,9.94
+24840,Hospital,Otro,Puerto Rico,NO,GA,26,Black,25~29,White,1~3,NO,128,140,12,1,2,Single,F,38,6.25
+34492,Hospital,Bayamon,Puerto Rico,NO,9~11,15,White,15~19,White,1~3,NO,113,137,24,1,2,Single,M,38,7.5
+29055,Hospital,Otro,Puerto Rico,SI,Algunos creditos,25,White,25~29,White,1~3,NO,215,234,19,1,2,Single,M,38,6
+14175,Hospital,Otro,Puerto Rico,SI,12,33,White,35~39,White,1~3,NO,145,182,37,0,1,Single,M,35,7.13
+14172,Hospital,Caguas,Puerto Rico,SI,GA,28,White,30~34,White,4~6,NO,103,123,20,0,1,Single,F,37,5
+30165,Hospital,Otro,No hispano,NO,12,23,White,20~24,White,1~3,NO,142,166,24,1,2,Single,F,38,5.19
+35633,Hospital,Ponce,Puerto Rico,SI,GA,21,White,15~19,White,1~3,NO,220,246,26,0,1,Single,F,37,4.5
+9833,Hospital,Otro,Puerto Rico,SI,GA,23,White,20~24,White,4~6,NO,144,136,0,1,2,Single,M,40,6.94
+37419,Hospital,Otro,Puerto Rico,NO,BA,26,White,30~34,White,1~3,NO,138,163,25,1,2,Single,M,39,7.37
+14755,Hospital,San Juan,Puerto Rico,NO,GA,28,White,20~24,White,1~3,NO,159,198,39,1,2,Single,F,39,7.94
+19215,Hospital,Otro,Puerto Rico,NO,12,24,White,35~39,White,1~3,NO,140,172,32,1,2,Single,M,38,6.5
+36993,Hospital,Otro,Puerto Rico,NO,9~11,26,White,45~49,White,1~3,NO,157,166,9,0,1,Single,F,40,6.44
+37377,Hospital,San Juan,Puerto Rico,NO,12,24,White,25~29,Black,4~6,NO,145,170,25,1,2,Single,M,37,6.81
+15265,Hospital,Otro,Puerto Rico,SI,BA,30,White,35~39,White,1~3,NO,243,280,37,0,1,Single,M,38,8.75
+9481,Hospital,Otro,Puerto Rico,NO,BA,22,White,35~39,Black,1~3,NO,172,219,47,0,1,Single,M,38,7.06
+22150,Hospital,Otro,Puerto Rico,SI,BA,44,White,45~49,White,1~3,NO,185,220,35,0,1,Single,M,34,8.38
+12153,Hospital,Otro,Puerto Rico,NO,12,23,White,20~24,White,1~3,NO,130,151,21,1,2,Single,F,38,6.81
+17132,Hospital,San Juan,Puerto Rico,NO,12,22,Black,30~34,Black,1~3,NO,189,257,68,0,1,Single,M,39,8.62
+8966,Hospital,Otro,Puerto Rico,SI,9~11,17,White,15~19,White,4~6,NO,119,152,33,1,2,Single,F,39,7.75
+27569,Hospital,Otro,Puerto Rico,NO,Algunos creditos,29,White,25~29,White,1~3,NO,140,180,40,0,1,Single,F,37,5.19
+8172,Hospital,Otro,Puerto Rico,NO,9~11,18,White,20~24,White,1~3,NO,180,194,14,1,2,Single,F,40,7.81
+6181,Hospital,Otro,Puerto Rico,SI,BA,28,White,25~29,White,1~3,NO,113,168,55,0,1,Single,M,39,7.44
+39350,Hospital,Ponce,Puerto Rico,NO,9~11,16,White,Desconocida,Desconocida,4~6,NO,146,140,0,0,1,Single,M,38,7.19
+4192,Hospital,Otro,Puerto Rico,NO,~8VO,24,White,15~19,White,4~6,NO,155,164,9,1,2,Single,F,37,4.44
+33097,Hospital,Otro,Puerto Rico,NO,MA,29,White,50~54,White,1~3,NO,297,334,37,0,1,Single,M,37,7.13
+17741,Hospital,San Juan,Puerto Rico,NO,12,33,White,30~34,Black,1~3,NO,106,120,14,1,2,Single,M,36,6.88
+24497,Hospital,Otro,Puerto Rico,NO,12,24,White,20~24,White,1~3,NO,190,214,24,0,1,Single,M,38,7.63
+3951,Hospital,San Juan,Puerto Rico,NO,12,19,White,15~19,White,4~6,NO,185,177,0,1,2,Single,M,44,7.25
+31617,Hospital,Otro,No hispano,SI,12,34,White,35~39,White,1~3,NO,210,252,42,1,2,Single,M,38,7.94
+10370,Hospital,Otro,Puerto Rico,SI,12,36,White,35~39,White,1~3,NO,119,150,31,0,1,Single,M,38,7
+4157,Hospital,Otro,Puerto Rico,NO,BA,33,White,30~34,White,1~3,NO,133,168,35,0,1,Single,F,38,7.81
+27805,Hospital,Carolina,Puerto Rico,SI,BA,22,Black,20~24,Black,4~6,NO,149,182,33,0,1,Single,F,39,8
+29305,Hospital,Otro,Puerto Rico,NO,GA,30,White,20~24,White,1~3,NO,128,166,38,0,1,Single,M,35,4.19
+22704,Hospital,Otro,Puerto Rico,SI,GA,24,White,25~29,White,1~3,NO,109,137,28,0,1,Single,M,39,7.06
+16400,Hospital,Mayaguez,Puerto Rico,NO,12,23,White,25~29,White,1~3,NO,275,267,0,1,2,Single,F,39,6.75
+2323,Hospital,Otro,Puerto Rico,SI,BA,42,White,50~54,White,1~3,NO,105,130,25,0,1,Single,F,37,5.69
+33202,Hospital,Otro,Puerto Rico,SI,GA,36,White,50~54,White,1~3,NO,98,105,7,0,1,Single,F,33,4.12
+10791,Hospital,Bayamon,Puerto Rico,NO,BA,27,White,25~29,White,7~,NO,161,180,19,0,1,Single,M,38,7.44
+38489,Hospital,Caguas,Puerto Rico,SI,MA,37,White,40~44,White,1~3,NO,127,145,18,1,2,Single,F,37,6.19
+24246,Hospital,Otro,Puerto Rico,SI,MA,33,White,30~34,White,1~3,NO,100,135,35,1,2,Single,M,39,5.69
+23200,Hospital,Otro,Puerto Rico,NO,12,30,White,25~29,White,1~3,NO,198,229,31,1,2,Single,M,38,8.25
+36142,Hospital,Otro,Puerto Rico,NO,BA,30,Black,30~34,White,1~3,NO,215,258,43,0,1,Single,M,37,7
+625,Hospital,Otro,Puerto Rico,NO,9~11,22,White,30~34,White,1~3,NO,154,165,11,1,2,Single,M,39,6.06
+9743,Hospital,Otro,Puerto Rico,NO,~8VO,24,White,Desconocida,Desconocida,Desconocido,NO,115,136,21,1,2,Single,F,33,7.06
+39932,Hospital,Bayamon,Puerto Rico,NO,Algunos creditos,33,White,Desconocida,Desconocida,4~6,NO,219,214,0,1,2,Single,M,38,6.69
+21266,Hospital,Otro,Puerto Rico,NO,12,20,White,25~29,White,7~,NO,120,160,40,1,2,Single,F,40,7.81
+23178,Hospital,San Juan,Puerto Rico,NO,~8VO,18,White,20~24,White,4~6,NO,114,136,22,0,1,Single,F,39,7.25
+1891,Hospital,Otro,Puerto Rico,NO,12,19,White,20~24,White,1~3,NO,95,133,38,1,2,Single,F,37,5.63
+13757,Hospital,Otro,Puerto Rico,SI,BA,27,White,25~29,Black,1~3,NO,181,193,12,0,1,Twin,F,35,5.44
+13381,Hospital,Caguas,Puerto Rico,SI,BA,36,White,30~34,White,1~3,NO,124,144,20,1,2,Single,M,35,5.63
+36877,Hospital,Otro,Puerto Rico,NO,GA,24,White,25~29,White,1~3,NO,140,150,10,1,2,Single,F,26,5.69
+33983,Hospital,Otro,Puerto Rico,NO,9~11,38,White,40~44,White,4~6,NO,175,180,5,1,2,Single,F,37,6.31
+31519,Hospital,Otro,Puerto Rico,NO,12,17,White,15~19,White,1~3,NO,118,146,28,0,1,Single,M,38,4.87
+13026,Hospital,Otro,Puerto Rico,NO,12,26,White,30~34,White,4~6,NO,149,163,14,0,1,Single,F,38,7.06
+38082,Hospital,Otro,Puerto Rico,NO,12,38,White,35~39,White,1~3,NO,165,168,3,1,2,Single,F,30,3.94
+25409,Hospital,Otro,Puerto Rico,SI,MA,28,White,30~34,White,1~3,NO,164,183,19,0,1,Single,M,37,6.19
+8595,Hospital,Otro,Puerto Rico,NO,12,19,White,20~24,White,4~6,NO,176,196,20,0,1,Single,F,41,6.38
+2215,Hospital,Otro,Puerto Rico,SI,12,18,White,20~24,White,1~3,NO,120,142,22,1,2,Single,F,39,6.31
+17988,Hospital,Otro,Puerto Rico,NO,BA,23,White,25~29,White,1~3,NO,199,239,40,0,1,Single,M,39,8.62
+12544,Hospital,Otro,Puerto Rico,NO,9~11,16,White,20~24,White,4~6,NO,100,132,32,0,1,Single,M,39,7.06
+25305,Hospital,Carolina,Puerto Rico,NO,9~11,17,White,20~24,White,1~3,NO,120,144,24,1,2,Single,F,38,5.88
+4150,Hospital,Otro,Puerto Rico,NO,Algunos creditos,26,White,25~29,White,1~3,NO,190,227,37,1,2,Single,M,38,6.88
+20196,Hospital,Otro,Puerto Rico,SI,BA,22,White,20~24,White,1~3,NO,130,148,18,0,1,Single,M,36,5.19
+385,Hospital,Otro,Puerto Rico,SI,12,31,White,30~34,White,1~3,NO,193,271,78,1,2,Single,F,25,5.88
+12635,Hospital,Otro,Puerto Rico,SI,BA,31,White,35~39,White,1~3,NO,204,232,28,0,1,Single,F,38,8.56
+24532,Hospital,Otro,No hispano,NO,BA,25,White,20~24,White,1~3,NO,118,151,33,1,2,Single,M,38,7.63
+15022,Hospital,Otro,Puerto Rico,NO,Algunos creditos,25,Black,25~29,White,1~3,NO,154,208,54,1,2,Single,F,40,7.19
+27986,Hospital,Mayaguez,Puerto Rico,NO,12,28,White,30~34,White,1~3,NO,190,226,36,0,1,Single,M,35,6.44
+17308,Hospital,Otro,Puerto Rico,NO,9~11,18,Black,20~24,Black,4~6,NO,193,206,13,1,2,Single,M,37,7.37
+17016,Hospital,Otro,Puerto Rico,NO,12,21,White,25~29,White,1~3,NO,114,143,29,0,1,Single,F,38,7.13
+17362,Hospital,Otro,Puerto Rico,NO,9~11,29,White,30~34,White,1~3,NO,154,160,6,1,2,Single,M,37,6.19
+26018,Hospital,San Juan,Puerto Rico,NO,9~11,15,Black,20~24,White,1~3,NO,140,152,12,1,2,Single,F,40,6.94
+38456,Hospital,Bayamon,Puerto Rico,SI,GA,28,Black,40~44,White,1~3,NO,162,174,12,1,2,Single,F,38,5.63
+15286,Hospital,San Juan,Puerto Rico,SI,BA,34,White,30~34,White,1~3,NO,256,262,6,0,1,Single,F,33,6.56
+1205,Hospital,Caguas,Puerto Rico,NO,GA,19,White,30~34,White,1~3,NO,125,140,15,1,2,Single,F,41,6.19
+27442,Hospital,Otro,Puerto Rico,NO,Algunos creditos,25,White,20~24,White,1~3,NO,102,134,32,1,2,Single,M,38,6.81
+21633,Hospital,Otro,Puerto Rico,SI,GA,24,White,25~29,Black,1~3,NO,158,178,20,1,2,Single,M,41,6.12
+1886,Hospital,Otro,Puerto Rico,NO,GA,28,White,30~34,White,1~3,NO,156,185,29,0,1,Single,M,37,4.94
+29159,Hospital,Otro,Puerto Rico,NO,GA,29,White,25~29,White,1~3,NO,119,150,31,0,1,Single,M,38,8.31
+33630,Hospital,San Juan,Puerto Rico,NO,12,19,Black,20~24,White,1~3,NO,169,198,29,0,1,Single,M,38,9.25
+10966,Hospital,Ponce,Puerto Rico,SI,BA,28,White,35~39,White,1~3,NO,184,210,26,1,2,Single,M,38,7
+32483,Hospital,Otro,Puerto Rico,SI,12,23,White,25~29,White,4~6,NO,190,200,10,1,2,Single,M,39,6.56
+5638,Hospital,Otro,Puerto Rico,NO,12,29,White,35~39,White,4~6,NO,176,216,40,0,1,Single,F,39,5
+10413,Hospital,Caguas,Puerto Rico,NO,GA,23,White,20~24,White,1~3,NO,130,161,31,0,1,Single,M,39,8.13
+8329,Hospital,San Juan,Otro,NO,Algunos creditos,21,White,20~24,Black,Desconocido,NO,115,136,21,1,2,Single,F,39,7.13
+18246,Hospital,Otro,Puerto Rico,SI,12,24,White,25~29,White,1~3,NO,136,112,NA,1,2,Single,M,39,7.13
+21613,Hospital,Carolina,Puerto Rico,SI,12,20,White,15~19,Black,1~3,NO,132,167,35,1,2,Single,F,37,6.38
+37415,Hospital,San Juan,Puerto Rico,NO,12,19,White,20~24,White,1~3,NO,95,138,43,1,2,Single,M,34,6.25
+19302,Hospital,Otro,Puerto Rico,NO,12,20,White,20~24,White,1~3,NO,125,154,29,0,1,Single,F,35,6.06
+36298,Hospital,Carolina,Puerto Rico,NO,DOCTORADO,28,White,25~29,White,4~6,NO,106,128,22,0,1,Single,F,38,6.94
+23535,Hospital,Otro,Puerto Rico,NO,12,19,White,20~24,White,1~3,NO,115,145,30,1,2,Single,F,38,6.88
+18001,Hospital,Otro,Puerto Rico,NO,9~11,20,White,20~24,Black,1~3,NO,114,148,34,0,1,Single,M,23,NA
+23005,Hospital,Otro,Puerto Rico,SI,GA,32,White,35~39,White,1~3,NO,168,208,40,0,1,Single,M,37,7.25
+1403,Hospital,Caguas,Puerto Rico,NO,9~11,19,White,20~24,White,1~3,NO,188,214,26,0,1,Single,F,38,7.75
+13455,Hospital,Carolina,Puerto Rico,NO,12,31,White,30~34,White,1~3,NO,120,153,33,1,2,Single,F,38,6.38
+241,Hospital,Otro,Puerto Rico,NO,12,30,White,45~49,Black,1~3,NO,138,154,16,0,1,Single,F,40,5.75
+33516,Hospital,Otro,Puerto Rico,NO,12,25,White,20~24,White,1~3,NO,155,200,45,0,1,Single,M,36,5.5
+14579,Hospital,Mayaguez,Puerto Rico,NO,12,27,White,25~29,White,1~3,NO,190,197,7,0,1,Single,M,36,4.44
+40027,Hospital,Otro,Puerto Rico,NO,~8VO,17,Black,20~24,Black,4~6,NO,110,144,34,1,2,Single,M,39,5.88
+16889,Hospital,Otro,Puerto Rico,SI,BA,26,Black,25~29,Black,4~6,NO,131,168,37,1,2,Single,M,40,8.44
+25970,Hospital,Bayamon,Puerto Rico,NO,12,35,White,35~39,White,1~3,NO,201,228,27,0,1,Single,F,39,7.25
+28776,Hospital,San Juan,Puerto Rico,NO,12,23,White,30~34,Black,1~3,NO,155,190,35,1,2,Single,F,39,6.44
+469,Hospital,Mayaguez,No hispano,SI,9~11,17,White,15~19,White,1~3,NO,115,151,36,1,2,Single,F,39,7.06
+20452,Hospital,Otro,Puerto Rico,NO,12,25,White,30~34,White,1~3,NO,144,168,24,0,1,Single,F,38,7.44
+33624,Hospital,Otro,Puerto Rico,NO,BA,25,White,30~34,White,1~3,NO,129,162,33,0,1,Single,M,39,6.19
+40429,Hospital,San Juan,Puerto Rico,SI,9~11,19,White,20~24,White,1~3,NO,120,146,26,0,1,Single,F,39,6.56
+15677,Hospital,Otro,Puerto Rico,NO,12,24,White,20~24,White,1~3,NO,117,144,27,0,1,Single,F,37,5.94
+39158,Hospital,Ponce,Puerto Rico,NO,12,21,White,30~34,White,1~3,NO,121,148,27,0,1,Single,F,39,6.69
+4823,Hospital,Ponce,Puerto Rico,NO,BA,26,White,35~39,White,1~3,NO,105,122,17,0,1,Single,M,37,6.25
+5250,Hospital,Otro,Puerto Rico,NO,Algunos creditos,25,White,30~34,White,1~3,NO,92,102,10,1,2,Single,M,46,5.75
+27722,Hospital,Otro,Puerto Rico,NO,GA,21,White,20~24,White,1~3,NO,118,154,36,0,1,Single,F,40,6.56
+6261,Hospital,Otro,Puerto Rico,NO,9~11,20,White,20~24,White,4~6,NO,125,142,17,1,2,Single,F,38,7.5
+1640,Hospital,Bayamon,Puerto Rico,NO,12,28,White,25~29,White,1~3,NO,194,234,40,1,2,Single,F,38,7.06
+34386,Hospital,Otro,Puerto Rico,SI,GA,32,White,35~39,White,1~3,NO,144,178,34,0,1,Single,F,38,8.31
+24590,Hospital,Otro,Puerto Rico,NO,GA,27,White,20~24,White,1~3,NO,328,316,0,0,1,Single,F,36,6
+24063,Hospital,Otro,Puerto Rico,SI,BA,27,White,40~44,White,1~3,NO,161,181,20,1,2,Single,M,38,6.62
+24061,Hospital,Otro,Puerto Rico,NO,9~11,18,White,15~19,White,1~3,NO,130,176,46,0,1,Single,F,40,8.25
+5196,Hospital,San Juan,Puerto Rico,SI,BA,35,White,25~29,White,1~3,NO,154,192,38,1,2,Single,F,40,9.81
+10365,Hospital,Otro,Puerto Rico,NO,GA,29,White,30~34,White,1~3,NO,99,122,23,0,1,Single,M,39,6.25
+19697,Hospital,Otro,Puerto Rico,SI,BA,26,White,25~29,White,1~3,NO,116,155,39,1,2,Single,F,41,6
+15393,Hospital,Otro,Puerto Rico,SI,12,21,Black,25~29,Black,1~3,NO,93,115,22,1,2,Single,M,37,5.13
+16594,Hospital,Otro,Puerto Rico,NO,DOCTORADO,30,White,30~34,White,1~3,NO,130,160,30,1,2,Single,F,40,6.31
+27248,Hospital,Bayamon,Puerto Rico,NO,12,25,White,35~39,Black,4~6,NO,250,254,4,1,2,Single,F,39,6.12
+18030,Hospital,Otro,Puerto Rico,NO,BA,30,White,20~24,White,1~3,NO,130,155,25,1,2,Single,M,36,5.63
+10107,Hospital,Otro,Puerto Rico,NO,12,24,White,20~24,White,1~3,NO,169,181,12,1,2,Single,M,38,6.69
+23662,Hospital,San Juan,Puerto Rico,NO,GA,23,Black,25~29,Black,1~3,NO,105,149,44,1,2,Single,F,38,7.94
+21552,Hospital,Carolina,Puerto Rico,NO,GA,34,White,30~34,White,1~3,NO,139,145,6,0,1,Single,F,39,5.69
+20912,Hospital,Otro,Otro,SI,9~11,33,White,45~49,White,1~3,NO,118,134,16,1,2,Single,M,37,5.75
+5171,Hospital,Bayamon,Puerto Rico,NO,BA,26,White,25~29,White,1~3,NO,182,192,10,0,1,Single,M,38,7.37
+12567,Hospital,Otro,Puerto Rico,NO,12,20,White,20~24,White,1~3,NO,214,242,28,0,1,Single,F,38,7.5
+36228,Hospital,Otro,Puerto Rico,NO,~8VO,15,White,15~19,Black,1~3,NO,96,115,19,0,1,Single,F,38,6.25
+33992,Hospital,Otro,Puerto Rico,NO,BA,36,White,35~39,Black,1~3,NO,100,130,30,0,1,Single,M,19,NA
+15338,Hospital,Otro,Puerto Rico,NO,12,24,White,15~19,White,1~3,NO,104,134,30,1,2,Single,M,39,8.06
+2949,Hospital,Otro,Puerto Rico,SI,BA,27,White,25~29,White,1~3,NO,159,185,26,0,1,Single,M,38,6.25
+6313,Hospital,Otro,Puerto Rico,NO,12,28,Black,25~29,Black,4~6,NO,136,162,26,0,1,Single,F,40,7.06
+30255,Hospital,Otro,Puerto Rico,SI,GA,24,White,25~29,White,1~3,NO,112,132,20,1,2,Single,F,38,5.75
+26528,Hospital,Otro,Puerto Rico,NO,12,20,White,25~29,White,1~3,NO,171,213,42,0,1,Single,F,39,6.75
+6975,Hospital,Ponce,Puerto Rico,NO,~8VO,20,White,Desconocida,Desconocida,1~3,NO,115,133,18,1,2,Single,F,37,6.62
+39541,Hospital,Otro,Otro,SI,BA,30,White,45~49,White,1~3,NO,119,136,17,0,1,Single,F,41,6.62
+13838,Hospital,Bayamon,Puerto Rico,NO,12,18,White,20~24,White,4~6,NO,110,146,36,1,2,Single,M,39,7.94
+293,Hospital,Otro,Puerto Rico,SI,12,24,White,20~24,White,1~3,NO,99,139,40,1,2,Single,M,38,5.88
+1156,Hospital,Otro,Puerto Rico,SI,GA,30,Black,35~39,White,1~3,NO,141,182,41,1,2,Single,M,41,6.88
+26263,Hospital,Otro,Puerto Rico,SI,DOCTORADO,30,White,40~44,White,1~3,NO,155,181,26,0,1,Single,F,38,6.44
+31269,Hospital,Otro,Puerto Rico,NO,12,25,White,35~39,White,4~6,NO,144,153,9,1,2,Single,F,39,7.25
+11664,Hospital,Otro,Puerto Rico,NO,GA,39,White,40~44,White,1~3,NO,180,190,10,0,1,Single,M,34,6
+26537,Hospital,Bayamon,Puerto Rico,NO,~8VO,21,White,20~24,White,1~3,NO,245,246,1,0,1,Single,F,38,7.31
+40972,Hospital,Otro,Puerto Rico,NO,9~11,23,White,20~24,White,1~3,NO,154,171,17,0,1,Single,M,37,7.75
+27919,Hospital,Otro,Puerto Rico,NO,9~11,25,White,20~24,White,1~3,NO,115,136,21,1,2,Single,M,37,6.12
+26038,Hospital,Otro,Puerto Rico,NO,12,37,White,35~39,Black,4~6,NO,153,170,17,1,2,Single,F,40,6.62
+16739,Hospital,Otro,Puerto Rico,NO,~8VO,22,White,45~49,White,1~3,NO,110,119,9,1,2,Single,F,29,7.13
+40366,Hospital,Otro,Puerto Rico,NO,12,26,White,20~24,White,1~3,NO,126,150,24,1,2,Single,F,39,6.69
+36890,Hospital,Bayamon,Puerto Rico,SI,12,26,White,25~29,White,1~3,NO,99,120,21,0,1,Single,F,40,7.81
+36270,Hospital,San Juan,Puerto Rico,NO,GA,28,Black,20~24,Black,1~3,NO,272,277,5,0,1,Single,F,39,6.75
+31826,Hospital,Otro,Puerto Rico,SI,12,19,Black,20~24,White,1~3,NO,125,158,33,1,2,Single,F,38,7.87
+6407,Hospital,Caguas,Puerto Rico,SI,BA,36,White,35~39,White,1~3,NO,132,158,26,1,2,Single,F,41,7.63
+11652,Hospital,Otro,Puerto Rico,NO,9~11,20,White,20~24,White,1~3,NO,86,120,34,0,1,Twin,F,37,5.44
+19027,Hospital,Otro,Puerto Rico,SI,BA,28,White,25~29,White,1~3,NO,143,171,28,0,1,Single,M,36,6.06
+37245,Hospital,Otro,Puerto Rico,SI,MA,32,White,25~29,White,1~3,NO,197,213,16,1,2,Single,M,34,9.19
+34427,Hospital,Otro,Puerto Rico,SI,DOCTORADO,31,Black,30~34,White,1~3,NO,130,172,42,0,1,Single,M,37,6.69
+36979,Hospital,Otro,Puerto Rico,NO,9~11,15,White,15~19,White,1~3,NO,96,128,32,1,2,Single,F,37,5.63
+18080,Hospital,San Juan,Otro,NO,9~11,28,Black,25~29,White,4~6,NO,130,160,30,1,2,Single,F,35,6.31
+31748,Hospital,Otro,Puerto Rico,SI,BA,26,White,25~29,White,1~3,NO,133,166,33,1,2,Single,M,38,4.25
+34868,Hospital,Otro,No hispano,SI,9~11,15,White,20~24,White,1~3,NO,145,173,28,0,1,Single,F,36,6
+8823,Hospital,San Juan,Puerto Rico,SI,BA,40,White,55~98,White,1~3,NO,158,187,29,1,2,Single,M,38,7.19
+22681,Hospital,Otro,Puerto Rico,SI,MA,34,White,30~34,White,1~3,NO,142,167,25,1,2,Single,M,38,7.69
+1031,Hospital,Otro,Puerto Rico,SI,9~11,26,White,25~29,White,4~6,NO,246,248,2,1,2,Single,M,39,7.81
+1168,Hospital,Otro,Puerto Rico,NO,9~11,15,White,15~19,White,1~3,NO,121,160,39,0,1,Single,M,39,8.94
+14813,Hospital,Otro,Puerto Rico,NO,BA,33,White,35~39,White,1~3,NO,170,190,20,0,1,Single,M,37,7.06
+20302,Hospital,Otro,Puerto Rico,NO,12,26,White,45~49,White,1~3,NO,125,170,45,1,2,Single,F,38,7.63
+13872,Hospital,San Juan,Otro,NO,12,36,White,40~44,Black,1~3,NO,130,171,41,0,1,Single,M,39,5.75
+34436,Hospital,San Juan,Puerto Rico,NO,12,20,White,20~24,White,1~3,NO,128,158,30,1,2,Single,F,40,6.25
+27439,Hospital,Otro,Puerto Rico,NO,~8VO,30,White,45~49,Black,NINGUNO,NO,175,180,5,1,2,Single,F,17,NA
+12912,Hospital,Caguas,Puerto Rico,NO,12,21,White,20~24,White,1~3,NO,86,116,30,0,1,Single,F,39,8.38
+37026,Hospital,San Juan,Otro,NO,9~11,26,Black,Desconocida,Desconocida,4~6,NO,152,171,19,1,2,Single,F,38,6.62
+2066,Hospital,Otro,Puerto Rico,NO,12,21,White,25~29,White,1~3,NO,122,149,27,0,1,Single,F,36,6.81
+300,Hospital,Otro,Puerto Rico,NO,Algunos creditos,20,White,20~24,White,1~3,NO,140,178,38,0,1,Single,M,38,6.25
+34287,Hospital,San Juan,Puerto Rico,NO,GA,34,White,25~29,White,1~3,NO,151,176,25,0,1,Single,M,37,6.06
+35383,Hospital,San Juan,Puerto Rico,NO,9~11,20,Black,30~34,Black,7~,NO,143,165,22,0,1,Single,M,38,7.44
+23740,Hospital,Ponce,Puerto Rico,NO,12,29,White,25~29,White,1~3,NO,153,168,15,0,1,Single,M,38,6.75
+32930,Hospital,San Juan,Puerto Rico,NO,9~11,17,Black,Desconocida,Desconocida,1~3,NO,130,154,24,1,2,Single,F,38,5.37
+35551,Hospital,Otro,Puerto Rico,NO,GA,19,White,20~24,White,4~6,NO,144,155,11,1,2,Single,F,36,6.81
+27562,Hospital,Otro,Puerto Rico,NO,12,31,Black,35~39,White,1~3,NO,142,176,34,0,1,Single,M,39,7.37
+8477,Hospital,Ponce,Puerto Rico,NO,12,28,Black,25~29,White,1~3,NO,198,200,2,1,2,Single,F,32,7.5
+12586,Hospital,San Juan,Puerto Rico,NO,9~11,31,White,35~39,Black,7~,NO,122,140,18,1,2,Single,M,42,5.19
+39629,Hospital,Otro,Puerto Rico,SI,12,23,White,25~29,White,1~3,NO,159,170,11,1,2,Single,M,38,4.87
+14431,Hospital,Otro,Puerto Rico,NO,Algunos creditos,18,White,15~19,White,1~3,NO,106,128,22,1,2,Single,F,38,6.75
+11282,Hospital,Otro,Puerto Rico,NO,12,21,White,20~24,White,4~6,NO,179,192,13,1,2,Single,F,40,6.94
+12245,Hospital,Otro,Puerto Rico,NO,12,19,White,25~29,White,4~6,NO,250,290,40,0,1,Single,M,38,6.56
+34517,Hospital,Otro,Puerto Rico,SI,12,27,White,25~29,White,1~3,NO,142,185,43,0,1,Single,F,38,5.06
+18123,Hospital,Otro,Puerto Rico,SI,GA,30,White,40~44,White,4~6,NO,151,190,39,0,1,Single,M,40,NA
+9173,Hospital,Otro,Puerto Rico,SI,BA,36,White,35~39,White,1~3,NO,202,206,4,0,1,Single,M,38,7.69
+23175,Hospital,Otro,Puerto Rico,NO,BA,33,White,30~34,White,1~3,NO,199,210,11,1,2,Single,F,39,8.38
+15046,Hospital,Otro,Puerto Rico,NO,BA,19,White,20~24,White,1~3,NO,120,158,38,1,2,Single,M,37,7
+7098,Hospital,San Juan,Puerto Rico,SI,MA,26,White,25~29,White,1~3,NO,125,159,34,0,1,Single,F,36,5.13
+32963,Hospital,Otro,Puerto Rico,SI,BA,37,White,35~39,White,1~3,NO,144,161,17,1,2,Single,M,38,6.81
+38847,Hospital,Otro,Puerto Rico,NO,12,32,White,30~34,White,1~3,NO,188,210,22,0,1,Single,F,34,5.63
+36272,Hospital,San Juan,Puerto Rico,NO,12,24,White,20~24,Black,1~3,NO,130,140,10,1,2,Single,F,40,7.81
+19200,Hospital,Otro,Puerto Rico,NO,GA,35,Black,35~39,Black,1~3,NO,175,199,24,0,1,Single,M,38,6.06
+36655,Hospital,Otro,Puerto Rico,SI,12,27,White,25~29,White,1~3,NO,182,180,0,0,1,Single,F,38,5.94
+13855,Hospital,Otro,Puerto Rico,NO,12,17,White,20~24,Black,4~6,NO,136,150,14,1,2,Single,M,40,8.25
+12556,Hospital,Otro,Puerto Rico,NO,12,23,White,25~29,Black,4~6,NO,132,180,48,1,2,Single,F,38,7.44
+19628,Hospital,Ponce,Puerto Rico,SI,BA,31,White,30~34,White,1~3,NO,129,151,22,1,2,Single,F,39,7.25
+26914,Hospital,Otro,Puerto Rico,NO,12,25,White,25~29,White,1~3,NO,141,205,64,0,1,Single,F,38,7.19
+18120,Hospital,Otro,Puerto Rico,SI,12,28,White,30~34,White,1~3,NO,132,172,40,0,1,Twin,M,33,4
+22103,Hospital,San Juan,Otro,NO,Algunos creditos,25,Black,Desconocida,Desconocida,4~6,NO,118,153,35,0,1,Single,F,37,7.69
+27799,Hospital,Otro,Puerto Rico,SI,Algunos creditos,34,White,30~34,White,1~3,NO,147,181,34,0,1,Single,F,38,6.31
+13740,Hospital,San Juan,Puerto Rico,NO,BA,35,White,35~39,Black,1~3,NO,142,137,0,1,2,Single,F,37,4.75
+14499,Hospital,Otro,Puerto Rico,NO,Algunos creditos,31,White,40~44,White,1~3,NO,140,172,32,1,2,Single,M,37,7.44
+3245,Hospital,Carolina,Puerto Rico,SI,BA,42,Black,40~44,Black,1~3,NO,161,167,6,0,1,Single,M,40,6.06
+22900,Hospital,Otro,Puerto Rico,NO,Algunos creditos,25,White,25~29,White,1~3,NO,142,190,48,0,1,Single,M,38,7.87
+24117,Hospital,Otro,Puerto Rico,NO,12,31,White,20~24,White,1~3,NO,127,167,40,1,2,Single,M,39,8
+34356,Hospital,Ponce,Puerto Rico,NO,9~11,19,White,25~29,White,4~6,NO,142,161,19,1,2,Single,M,34,5.75
+15053,Hospital,Otro,Puerto Rico,SI,BA,30,White,30~34,White,1~3,NO,124,167,43,0,1,Single,F,39,7
+23769,Hospital,Otro,Puerto Rico,NO,BA,28,White,25~29,White,1~3,NO,193,221,28,0,1,Single,M,38,4.06
+39982,Hospital,San Juan,Puerto Rico,NO,12,26,Black,30~34,Black,1~3,NO,160,169,9,0,1,Single,F,38,6.44
+13742,Hospital,San Juan,Puerto Rico,NO,DOCTORADO,31,White,25~29,White,1~3,NO,168,205,37,1,2,Single,M,39,7.94
+16269,Hospital,Caguas,Otro,NO,BA,28,White,30~34,White,1~3,NO,132,158,26,1,2,Single,M,28,NA
+23284,Hospital,San Juan,Puerto Rico,NO,12,19,White,30~34,White,1~3,NO,130,180,50,1,2,Single,M,39,7.13
+5133,Hospital,Carolina,Puerto Rico,NO,GA,20,White,30~34,White,1~3,NO,120,131,11,1,2,Single,F,38,6.56
+5920,Hospital,Bayamon,Puerto Rico,NO,Algunos creditos,32,White,35~39,White,1~3,NO,175,209,34,0,1,Single,F,40,9.69
+38602,Hospital,San Juan,Puerto Rico,NO,9~11,18,Black,25~29,White,1~3,NO,194,219,25,0,1,Single,M,39,8.38
+13326,Hospital,Otro,Puerto Rico,SI,9~11,25,White,40~44,White,4~6,NO,150,155,5,1,2,Single,M,37,6.19
+38110,Hospital,Ponce,Puerto Rico,SI,BA,26,White,30~34,White,1~3,NO,155,183,28,0,1,Twin,F,35,4.87
+24648,Hospital,Otro,Puerto Rico,SI,BA,31,Black,35~39,Black,1~3,NO,131,158,27,1,2,Single,F,36,6.19
+5786,Hospital,Otro,Puerto Rico,SI,BA,33,White,25~29,White,1~3,NO,114,166,52,1,2,Single,M,38,8.5
+39872,Hospital,Otro,Puerto Rico,NO,GA,35,White,30~34,White,1~3,NO,164,182,18,0,1,Single,M,39,8.06
+15560,Hospital,Otro,Puerto Rico,NO,12,20,White,15~19,White,1~3,NO,120,160,40,1,2,Single,M,37,6.94
+21718,Hospital,Otro,Puerto Rico,NO,GA,22,White,25~29,White,1~3,NO,130,171,41,1,2,Single,M,39,7.44
+34426,Hospital,Otro,Puerto Rico,NO,12,18,White,15~19,White,1~3,NO,163,205,42,1,2,Single,M,38,8.38
+34607,Hospital,Otro,Otro,SI,9~11,26,Black,30~34,White,1~3,NO,165,191,26,1,2,Single,F,38,7.19
+39601,Hospital,Otro,Puerto Rico,SI,BA,25,White,20~24,White,4~6,NO,153,184,31,1,2,Single,M,37,7.63
+9292,Hospital,Otro,Puerto Rico,NO,12,18,White,15~19,White,1~3,NO,142,166,24,1,2,Single,F,36,5.44
+4347,Hospital,Otro,Puerto Rico,SI,MA,28,Black,30~34,White,4~6,NO,116,133,17,0,1,Single,M,40,7.81
+4196,Hospital,Otro,Puerto Rico,SI,BA,34,White,30~34,White,1~3,NO,163,200,37,1,2,Single,F,39,9.5
+1910,Hospital,Carolina,Puerto Rico,SI,BA,26,White,25~29,White,1~3,NO,236,250,14,1,2,Single,F,39,7.37
+16114,Hospital,Otro,Puerto Rico,NO,12,18,White,20~24,White,1~3,NO,140,150,10,1,2,Single,M,38,6.5
+5674,Hospital,Ponce,Puerto Rico,NO,BA,39,White,40~44,White,1~3,NO,153,176,23,1,2,Single,M,38,8.44
+28072,Hospital,Carolina,Puerto Rico,NO,GA,21,White,20~24,White,1~3,NO,128,166,38,1,2,Single,F,39,7.25
+36678,Hospital,San Juan,Puerto Rico,NO,12,21,White,20~24,White,1~3,NO,114,129,15,0,1,Single,F,34,4.69
+32730,Hospital,Otro,Puerto Rico,NO,~8VO,16,White,15~19,White,4~6,NO,160,190,30,1,2,Single,M,32,7.44
+23508,Hospital,Otro,Puerto Rico,SI,GA,33,White,30~34,White,1~3,NO,105,135,30,0,1,Single,M,40,5.81
+27483,Hospital,Otro,Puerto Rico,NO,~8VO,15,White,20~24,White,Desconocido,NO,128,139,11,1,2,Single,F,39,4.25
+318,Hospital,Ponce,Puerto Rico,NO,9~11,20,White,25~29,White,1~3,NO,162,189,27,0,1,Single,F,39,7.06
+32015,Hospital,Otro,Puerto Rico,SI,12,22,White,20~24,White,4~6,NO,133,150,17,0,1,Single,F,41,5.63
+7743,Hospital,Otro,Puerto Rico,SI,DOCTORADO,36,White,30~34,White,1~3,NO,140,170,30,0,1,Single,F,37,6.12
+38097,Hospital,Otro,Puerto Rico,SI,12,18,White,20~24,White,1~3,NO,110,141,31,1,2,Single,F,39,6.19
+5589,Hospital,San Juan,Puerto Rico,NO,9~11,18,White,20~24,White,1~3,NO,147,180,33,0,1,Single,F,35,6.62
+17450,Hospital,San Juan,Puerto Rico,NO,BA,29,Black,25~29,White,Desconocido,NO,190,220,30,1,2,Single,M,34,10.56
+33758,Hospital,Otro,Puerto Rico,NO,~8VO,18,White,20~24,White,4~6,NO,100,127,27,1,2,Single,F,40,6.12
+8409,Hospital,Carolina,Puerto Rico,NO,12,24,White,30~34,White,1~3,NO,134,164,30,0,1,Single,M,38,7.37
+768,Hospital,Otro,Puerto Rico,NO,GA,20,White,20~24,White,1~3,NO,120,169,49,1,2,Single,F,41,7.19
+23528,Hospital,Otro,Puerto Rico,NO,BA,30,Black,30~34,White,1~3,NO,140,156,16,1,2,Single,F,40,6.12
+17776,Hospital,Otro,Puerto Rico,SI,GA,25,White,25~29,White,1~3,NO,134,164,30,1,2,Single,F,36,9.06
+25393,Hospital,Otro,Puerto Rico,SI,12,26,White,20~24,White,4~6,NO,105,128,23,1,2,Single,M,41,7.75
+39637,Hospital,Otro,Puerto Rico,NO,12,23,Black,Desconocida,Desconocida,1~3,NO,102,126,24,1,2,Single,M,36,5.75
+32327,Hospital,Otro,Puerto Rico,NO,12,23,White,30~34,White,1~3,NO,168,194,26,0,1,Single,M,38,7.5
